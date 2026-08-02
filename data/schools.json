@@ -5,7 +5,9 @@
   "c1": "#050e29",
   "c2": "#0d2977",
   "ink": "#C6CDD6",
-  "img": "assets/mascots/riverview.png"
+  "img": "assets/mascots/riverview.png",
+  "maxpreps": "riverview-sharks",
+  "art": true
  },
  "spoto": {
   "name": "Spoto",
@@ -13,7 +15,9 @@
   "c1": "#190727",
   "c2": "#471471",
   "ink": "#B9B4C4",
-  "img": "assets/mascots/spoto.png"
+  "img": "assets/mascots/spoto.png",
+  "maxpreps": "spoto-spartans",
+  "art": true
  },
  "gaither": {
   "name": "Gaither",
@@ -21,7 +25,9 @@
   "c1": "#000f2e",
   "c2": "#002a85",
   "ink": "#C4CBD6",
-  "img": "assets/mascots/gaither.png"
+  "img": "assets/mascots/gaither.png",
+  "maxpreps": "gaither-cowboys",
+  "art": true
  },
  "strawberry-crest": {
   "name": "Strawberry Crest",
@@ -29,7 +35,9 @@
   "c1": "#2b0307",
   "c2": "#7d0714",
   "ink": "#C7CBD1",
-  "img": "assets/mascots/strawberry-crest.png"
+  "img": "assets/mascots/strawberry-crest.png",
+  "maxpreps": "strawberry-crest-chargers",
+  "art": true
  },
  "king": {
   "name": "King",
@@ -37,7 +45,9 @@
   "c1": "#2b0209",
   "c2": "#7e071a",
   "ink": "#6CACE4",
-  "img": "assets/mascots/king.png"
+  "img": "assets/mascots/king.png",
+  "maxpreps": "king-lions",
+  "art": true
  },
  "durant": {
   "name": "Durant",
@@ -45,7 +55,9 @@
   "c1": "#00102e",
   "c2": "#002f85",
   "ink": "#FFC72C",
-  "img": "assets/mascots/durant.png"
+  "img": "assets/mascots/durant.png",
+  "maxpreps": "durant-cougars",
+  "art": true
  },
  "wharton": {
   "name": "Wharton",
@@ -53,7 +65,9 @@
   "c1": "#061527",
   "c2": "#133d72",
   "ink": "#C0C6CC",
-  "img": "assets/mascots/wharton.png"
+  "img": "assets/mascots/wharton.png",
+  "maxpreps": "wharton-wildcats",
+  "art": true
  },
  "brandon": {
   "name": "Brandon",
@@ -61,7 +75,9 @@
   "c1": "#2e0010",
   "c2": "#85002f",
   "ink": "#EFE3E7",
-  "img": "assets/mascots/brandon.png"
+  "img": "assets/mascots/brandon.png",
+  "maxpreps": "brandon-eagles",
+  "art": true
  },
  "sumner": {
   "name": "Sumner",
@@ -69,7 +85,9 @@
   "c1": "#0d0d21",
   "c2": "#252660",
   "ink": "#00C264",
-  "img": "assets/mascots/sumner.png"
+  "img": "assets/mascots/sumner.png",
+  "maxpreps": "sumner-stingrays",
+  "art": true
  },
  "plant": {
   "name": "Plant",
@@ -77,7 +95,9 @@
   "c1": "#171717",
   "c2": "#424242",
   "ink": "#FFC72C",
-  "img": "assets/mascots/plant.png"
+  "img": "assets/mascots/plant.png",
+  "maxpreps": "plant-panthers",
+  "art": true
  },
  "berkeley-prep": {
   "name": "Berkeley Prep",
@@ -85,7 +105,9 @@
   "c1": "#061527",
   "c2": "#133d72",
   "ink": "#6CACE4",
-  "img": "assets/mascots/berkeley-prep.png"
+  "img": "assets/mascots/berkeley-prep.png",
+  "maxpreps": "berkeley-prep-buccaneers",
+  "art": true
  },
  "hillsborough": {
   "name": "Hillsborough",
@@ -93,7 +115,9 @@
   "c1": "#2b0307",
   "c2": "#7d0714",
   "ink": "#E8ECF2",
-  "img": "assets/mascots/hillsborough.png"
+  "img": "assets/mascots/hillsborough.png",
+  "maxpreps": "hillsborough-terriers",
+  "art": true
  },
  "sarasota": {
   "name": "Sarasota",
@@ -101,7 +125,9 @@
   "c1": "#2c0f02",
   "c2": "#802c04",
   "ink": "#FF9147",
-  "img": "assets/mascots/sarasota.png"
+  "img": "assets/mascots/sarasota.png",
+  "maxpreps": "sarasota-sailors",
+  "art": true
  },
  "tampa-bay-tech": {
   "name": "Tampa Bay Tech",
@@ -109,7 +135,9 @@
   "c1": "#061527",
   "c2": "#133d72",
   "ink": "#E63946",
-  "img": "assets/mascots/tampa-bay-tech.png"
+  "img": "assets/mascots/tampa-bay-tech.png",
+  "maxpreps": "tampa-bay-tech-titans",
+  "art": true
  },
  "carrollwood-day": {
   "name": "Carrollwood Day",
@@ -117,7 +145,9 @@
   "c1": "#2b0307",
   "c2": "#7d0714",
   "ink": "#E8ECF2",
-  "img": "assets/mascots/carrollwood-day.png"
+  "img": "assets/mascots/carrollwood-day.png",
+  "maxpreps": "carrollwood-day-patriots",
+  "art": true
  },
  "armwood": {
   "name": "Armwood",
@@ -125,7 +155,9 @@
   "c1": "#050e29",
   "c2": "#0d2977",
   "ink": "#C6CDD6",
-  "img": "assets/mascots/armwood.png"
+  "img": "assets/mascots/armwood.png",
+  "maxpreps": "armwood-hawks",
+  "art": true
  },
  "edgewater": {
   "name": "Edgewater",
@@ -133,7 +165,9 @@
   "c1": "#2b0307",
   "c2": "#7d0714",
   "ink": "#F0DADD",
-  "img": "assets/mascots/edgewater.png"
+  "img": "assets/mascots/edgewater.png",
+  "maxpreps": "edgewater-eagles",
+  "art": true
  },
  "seminole": {
   "name": "Seminole",
@@ -141,7 +175,9 @@
   "c1": "#002e17",
   "c2": "#008542",
   "ink": "#F98A2E",
-  "img": "assets/mascots/seminole.png"
+  "img": "assets/mascots/seminole.png",
+  "maxpreps": "seminole-warhawks",
+  "art": true
  },
  "jefferson": {
   "name": "Jefferson",
@@ -149,7 +185,9 @@
   "c1": "#050e29",
   "c2": "#0d2977",
   "ink": "#FFC72C",
-  "img": "assets/mascots/jefferson.png"
+  "img": "assets/mascots/jefferson.png",
+  "maxpreps": "jefferson-dragons",
+  "art": true
  },
  "dunedin": {
   "name": "Dunedin",
@@ -157,7 +195,9 @@
   "c1": "#2b0307",
   "c2": "#7d0714",
   "ink": "#E8ECF2",
-  "img": "assets/mascots/dunedin.png"
+  "img": "assets/mascots/dunedin.png",
+  "maxpreps": "dunedin-falcons",
+  "art": true
  },
  "lennard": {
   "name": "Lennard",
@@ -165,7 +205,9 @@
   "c1": "#2e1500",
   "c2": "#853c00",
   "ink": "#FF9E4A",
-  "img": "assets/mascots/lennard.png"
+  "img": "assets/mascots/lennard.png",
+  "maxpreps": "lennard-longhorns",
+  "art": true
  },
  "osceola": {
   "name": "Osceola",
@@ -173,7 +215,9 @@
   "c1": "#050e29",
   "c2": "#0d2977",
   "ink": "#F98A2E",
-  "img": "assets/mascots/osceola.png"
+  "img": "assets/mascots/osceola.png",
+  "maxpreps": "osceola-warriors",
+  "art": true
  },
  "middleton": {
   "name": "Middleton",
@@ -181,7 +225,9 @@
   "c1": "#2e0010",
   "c2": "#85002f",
   "ink": "#FFC72C",
-  "img": "assets/mascots/middleton.png"
+  "img": "assets/mascots/middleton.png",
+  "maxpreps": "middleton-tigers",
+  "art": true
  },
  "gibbs": {
   "name": "Gibbs",
@@ -189,7 +235,9 @@
   "c1": "#000f2e",
   "c2": "#002a85",
   "ink": "#FFC72C",
-  "img": "assets/mascots/gibbs.png"
+  "img": "assets/mascots/gibbs.png",
+  "maxpreps": "gibbs-gladiators",
+  "art": true
  },
  "newsome": {
   "name": "Newsome",
@@ -197,7 +245,9 @@
   "c1": "#061527",
   "c2": "#133d72",
   "ink": "#7BAFD4",
-  "img": "assets/mascots/newsome.png"
+  "img": "assets/mascots/newsome.png",
+  "maxpreps": "newsome-wolves",
+  "art": true
  },
  "northeast": {
   "name": "Northeast",
@@ -205,7 +255,9 @@
   "c1": "#29050b",
   "c2": "#750f20",
   "ink": "#F5E6C8",
-  "img": "assets/mascots/northeast.png"
+  "img": "assets/mascots/northeast.png",
+  "maxpreps": "northeast-vikings",
+  "art": true
  },
  "plant-city": {
   "name": "Plant City",
@@ -213,7 +265,9 @@
   "c1": "#002e2e",
   "c2": "#008585",
   "ink": "#FF8A3D",
-  "img": "assets/mascots/plant-city.png"
+  "img": "assets/mascots/plant-city.png",
+  "maxpreps": "plant-city-raiders",
+  "art": true
  },
  "nature-coast-tech": {
   "name": "Nature Coast Tech",
@@ -221,7 +275,9 @@
   "c1": "#171717",
   "c2": "#424242",
   "ink": "#6CACE4",
-  "img": "assets/mascots/nature-coast-tech.png"
+  "img": "assets/mascots/nature-coast-tech.png",
+  "maxpreps": "nature-coast-tech-sharks",
+  "art": true
  },
  "alonso": {
   "name": "Alonso",
@@ -229,7 +285,9 @@
   "c1": "#061527",
   "c2": "#133d72",
   "ink": "#D3C577",
-  "img": "assets/mascots/alonso.png"
+  "img": "assets/mascots/alonso.png",
+  "maxpreps": "alonso-ravens",
+  "art": true
  },
  "zephyrhills-christian": {
   "name": "Zephyrhills Christian",
@@ -237,7 +295,9 @@
   "c1": "#061527",
   "c2": "#133d72",
   "ink": "#FFC72C",
-  "img": "assets/mascots/zephyrhills-christian.png"
+  "img": "assets/mascots/zephyrhills-christian.png",
+  "maxpreps": "zephyrhills-christian-warriors",
+  "art": true
  },
  "jesuit": {
   "name": "Jesuit",
@@ -245,7 +305,9 @@
   "c1": "#000f2e",
   "c2": "#002a85",
   "ink": "#8FBCEC",
-  "img": "assets/mascots/jesuit.png"
+  "img": "assets/mascots/jesuit.png",
+  "maxpreps": "jesuit-tigers",
+  "art": true
  },
  "s-f-a": {
   "name": "S F A",
@@ -253,7 +315,9 @@
   "c1": "#28060a",
   "c2": "#74101c",
   "ink": "#D9A441",
-  "img": "assets/mascots/s-f-a.png"
+  "img": "assets/mascots/s-f-a.png",
+  "maxpreps": "specially-fit-academy-rams",
+  "art": true
  },
  "cambridge-christian": {
   "name": "Cambridge Christian",
@@ -261,7 +325,9 @@
   "c1": "#061527",
   "c2": "#133d72",
   "ink": "#FFC72C",
-  "img": "assets/mascots/cambridge-christian.png"
+  "img": "assets/mascots/cambridge-christian.png",
+  "maxpreps": "cambridge-christian-lancers",
+  "art": true
  },
  "keswick-christian": {
   "name": "Keswick Christian",
@@ -269,6 +335,1230 @@
   "c1": "#082614",
   "c2": "#186d3a",
   "ink": "#6FCF97",
-  "img": "assets/mascots/keswick-christian.png"
+  "img": "assets/mascots/keswick-christian.png",
+  "maxpreps": "keswick-christian-crusaders",
+  "art": true
+ },
+ "bloomingdale": {
+  "name": "Bloomingdale",
+  "mascot": "Bulls",
+  "city": "valrico",
+  "maxpreps": "bloomingdale-bulls",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "leto": {
+  "name": "Leto",
+  "mascot": "Falcons",
+  "city": "tampa",
+  "maxpreps": "leto-falcons",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "east-bay": {
+  "name": "East Bay",
+  "mascot": "Indians",
+  "city": "gibsonton",
+  "maxpreps": "east-bay-indians",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#C8CDD1",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "blake": {
+  "name": "Blake",
+  "mascot": "Yellow Jackets",
+  "city": "tampa",
+  "maxpreps": "blake-yellow-jackets",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "steinbrenner": {
+  "name": "Steinbrenner",
+  "mascot": "Warriors",
+  "city": "lutz",
+  "maxpreps": "steinbrenner-warriors",
+  "primary": "#0C2340",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "robinson": {
+  "name": "Robinson",
+  "mascot": "Knights",
+  "city": "tampa",
+  "maxpreps": "robinson-knights",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "st-pete-catholic": {
+  "name": "St. Petersburg Catholic",
+  "mascot": "Barons",
+  "city": "st-petersburg",
+  "maxpreps": "st-petersburg-catholic-barons",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "morgan": {
+  "name": "Morgan",
+  "mascot": "Mustangs",
+  "city": "wimauma",
+  "maxpreps": "morgan-the-mustangs",
+  "primary": "#0C2340",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#F98A2E",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "chamberlain": {
+  "name": "Chamberlain",
+  "mascot": "Storm",
+  "city": "tampa",
+  "maxpreps": "chamberlain-storm",
+  "primary": "#00693E",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "freedom": {
+  "name": "Freedom",
+  "mascot": "Patriots",
+  "city": "tampa",
+  "maxpreps": "freedom-patriots",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "parrish-community": {
+  "name": "Parrish Community",
+  "mascot": "Bulls",
+  "city": "parrish",
+  "maxpreps": "parrish-community-bulls",
+  "primary": "#0C2340",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "largo": {
+  "name": "Largo",
+  "mascot": "Packers",
+  "city": "largo",
+  "maxpreps": "largo-packers",
+  "primary": "#0033A0",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "tampa-catholic": {
+  "name": "Tampa Catholic",
+  "mascot": "Crusaders",
+  "city": "tampa",
+  "maxpreps": "tampa-catholic-crusaders",
+  "primary": "#00693E",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#E6F0EA",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "pinellas-park": {
+  "name": "Pinellas Park",
+  "mascot": "Patriots",
+  "city": "largo",
+  "maxpreps": "pinellas-park-patriots",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "st-petersburg": {
+  "name": "St. Petersburg",
+  "mascot": "Green Devils",
+  "city": "st-petersburg",
+  "maxpreps": "st-petersburg-green-devils",
+  "primary": "#00693E",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#E6F0EA",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "sickles": {
+  "name": "Sickles",
+  "mascot": "Gryphons",
+  "city": "tampa",
+  "maxpreps": "sickles-gryphons",
+  "primary": "#00693E",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "palm-harbor": {
+  "name": "Palm Harbor University",
+  "mascot": "Hurricanes",
+  "city": "palm-harbor",
+  "maxpreps": "palm-harbor-university-hurricanes",
+  "primary": "#7A0019",
+  "c1": "#2e0009",
+  "c2": "#85001b",
+  "ink": "#7BAFD4",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "land-o-lakes": {
+  "name": "Land O' Lakes",
+  "mascot": "Gators",
+  "city": "land-o-lakes",
+  "maxpreps": "land-o-lakes-gators",
+  "primary": "#003087",
+  "c1": "#00102e",
+  "c2": "#002f85",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "wiregrass-ranch": {
+  "name": "Wiregrass Ranch",
+  "mascot": "Bulls",
+  "city": "wesley-chapel",
+  "maxpreps": "wiregrass-ranch-bulls",
+  "primary": "#7A0019",
+  "c1": "#2e0009",
+  "c2": "#85001b",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "manatee": {
+  "name": "Manatee",
+  "mascot": "Hurricanes",
+  "city": "bradenton",
+  "maxpreps": "manatee-hurricanes",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "boca-ciega": {
+  "name": "Boca Ciega",
+  "mascot": "Pirates",
+  "city": "gulfport",
+  "maxpreps": "boca-ciega-pirates",
+  "primary": "#002855",
+  "c1": "#00162e",
+  "c2": "#003e85",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "hollins": {
+  "name": "Hollins",
+  "mascot": "Royals",
+  "city": "st-petersburg",
+  "maxpreps": "hollins-royals",
+  "primary": "#00539B",
+  "c1": "#00192e",
+  "c2": "#004785",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "anclote": {
+  "name": "Anclote",
+  "mascot": "Sharks",
+  "city": "holiday",
+  "maxpreps": "anclote-sharks",
+  "primary": "#003087",
+  "c1": "#00102e",
+  "c2": "#002f85",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "tarpon-springs": {
+  "name": "Tarpon Springs",
+  "mascot": "Spongers",
+  "city": "tarpon-springs",
+  "maxpreps": "tarpon-springs-spongers",
+  "primary": "#800000",
+  "c1": "#2e0000",
+  "c2": "#850000",
+  "ink": "#EFE3E7",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "countryside": {
+  "name": "Countryside",
+  "mascot": "Cougars",
+  "city": "clearwater",
+  "maxpreps": "countryside-cougars",
+  "primary": "#800000",
+  "c1": "#2e0000",
+  "c2": "#850000",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "clearwater": {
+  "name": "Clearwater",
+  "mascot": "Tornadoes",
+  "city": "clearwater",
+  "maxpreps": "clearwater-tornadoes",
+  "primary": "#9E1B32",
+  "c1": "#28060c",
+  "c2": "#741122",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "lake-gibson": {
+  "name": "Lake Gibson",
+  "mascot": "Braves",
+  "city": "lakeland",
+  "maxpreps": "lake-gibson-braves",
+  "primary": "#782F40",
+  "c1": "#210c11",
+  "c2": "#612432",
+  "ink": "#CEB888",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "east-lake": {
+  "name": "East Lake",
+  "mascot": "Eagles",
+  "city": "tarpon-springs",
+  "maxpreps": "east-lake-eagles",
+  "primary": "#0033A0",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "calvary-christian": {
+  "name": "Calvary Christian",
+  "mascot": "Warriors",
+  "city": "clearwater",
+  "maxpreps": "calvary-christian-warriors",
+  "primary": "#002147",
+  "c1": "#00152e",
+  "c2": "#003e85",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "mulberry": {
+  "name": "Mulberry",
+  "mascot": "Panthers",
+  "city": "mulberry",
+  "maxpreps": "mulberry-panthers",
+  "primary": "#0033A0",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "kathleen": {
+  "name": "Kathleen",
+  "mascot": "Red Devils",
+  "city": "lakeland",
+  "maxpreps": "kathleen-red-devils",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "wesley-chapel": {
+  "name": "Wesley Chapel",
+  "mascot": "Wildcats",
+  "city": "wesley-chapel",
+  "maxpreps": "wesley-chapel-wildcats",
+  "primary": "#001F5B",
+  "c1": "#00102e",
+  "c2": "#002d85",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "low"
+ },
+ "lake-wales": {
+  "name": "Lake Wales",
+  "mascot": "Highlanders",
+  "city": "lake-wales",
+  "maxpreps": "lake-wales-highlanders",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#F98A2E",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "lakewood": {
+  "name": "Lakewood",
+  "mascot": "Spartans",
+  "city": "st-petersburg",
+  "maxpreps": "lakewood-spartans",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#FFB81C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "southeast": {
+  "name": "Southeast",
+  "mascot": "Seminoles",
+  "city": "bradenton",
+  "maxpreps": "southeast-seminoles",
+  "primary": "#0033A0",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#F98A2E",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "northside-christian": {
+  "name": "Northside Christian",
+  "mascot": "Mustangs",
+  "city": "st-petersburg",
+  "maxpreps": "northside-christian-mustangs",
+  "primary": "#003DA5",
+  "c1": "#00112e",
+  "c2": "#003185",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "low"
+ },
+ "crystal-river": {
+  "name": "Crystal River",
+  "mascot": "Pirates",
+  "city": "crystal-river",
+  "maxpreps": "crystal-river-pirates",
+  "primary": "#003087",
+  "c1": "#00102e",
+  "c2": "#002f85",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "swfl-christian": {
+  "name": "Southwest Florida Christian",
+  "mascot": "Kings",
+  "city": "fort-myers",
+  "maxpreps": "southwest-florida-christian-kings",
+  "primary": "#0C2340",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "UNKNOWN"
+ },
+ "sarasota-christian": {
+  "name": "Sarasota Christian",
+  "mascot": "Blazers",
+  "city": "sarasota",
+  "maxpreps": "sarasota-christian-blazers",
+  "primary": "#003087",
+  "c1": "#00102e",
+  "c2": "#002f85",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "bishop-mclaughlin": {
+  "name": "Bishop McLaughlin",
+  "mascot": "Hurricanes",
+  "city": "spring-hill",
+  "maxpreps": "bishop-mclaughlin-catholic-hurricanes",
+  "primary": "#002147",
+  "c1": "#00152e",
+  "c2": "#003e85",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "low"
+ },
+ "mitchell": {
+  "name": "Mitchell",
+  "mascot": "Mustangs",
+  "city": "new-port-richey",
+  "maxpreps": "mitchell-mustangs",
+  "primary": "#002B5C",
+  "c1": "#00152e",
+  "c2": "#003e85",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "sunlake": {
+  "name": "Sunlake",
+  "mascot": "Seahawks",
+  "city": "land-o-lakes",
+  "maxpreps": "sunlake-seahawks",
+  "primary": "#3F7686",
+  "c1": "#0e1c20",
+  "c2": "#29505b",
+  "ink": "#9FD0DE",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "cypress-creek": {
+  "name": "Cypress Creek",
+  "mascot": "Coyotes",
+  "city": "wesley-chapel",
+  "maxpreps": "cypress-creek-coyotes",
+  "primary": "#1A5632",
+  "c1": "#0a2414",
+  "c2": "#1d683b",
+  "ink": "#FFB81C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "lake-region": {
+  "name": "Lake Region",
+  "mascot": "Thunder",
+  "city": "eagle-lake",
+  "maxpreps": "lake-region-thunder",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "jones": {
+  "name": "Jones",
+  "mascot": "Tigers",
+  "city": "orlando",
+  "maxpreps": "jones-tigers",
+  "primary": "#00693E",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#FF8A3D",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "palmetto": {
+  "name": "Palmetto",
+  "mascot": "Tigers",
+  "city": "palmetto",
+  "maxpreps": "palmetto-tigers",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "fletcher": {
+  "name": "Fletcher",
+  "mascot": "Senators",
+  "city": "neptune-beach",
+  "maxpreps": "fletcher-senators",
+  "primary": "#582C83",
+  "c1": "#170b23",
+  "c2": "#432065",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "cardinal-mooney": {
+  "name": "Cardinal Mooney",
+  "mascot": "Cougars",
+  "city": "sarasota",
+  "maxpreps": "cardinal-mooney-cougars",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "archbishop-carroll": {
+  "name": "Archbishop Carroll",
+  "mascot": "Bulldogs",
+  "city": "miami",
+  "maxpreps": "archbishop-carroll-bulldogs",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#7BAFD4",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "ccc": {
+  "name": "Clearwater Central Catholic",
+  "mascot": "Marauders",
+  "city": "clearwater",
+  "maxpreps": "clearwater-central-catholic-marauders",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#FFB81C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "bayshore": {
+  "name": "Bayshore",
+  "mascot": "Bruins",
+  "city": "bradenton",
+  "maxpreps": "bayshore-bruins",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "palm-beach-lakes": {
+  "name": "Palm Beach Lakes",
+  "mascot": "Rams",
+  "city": "west-palm-beach",
+  "maxpreps": "palm-beach-lakes-rams",
+  "primary": "#6F263D",
+  "c1": "#230b13",
+  "c2": "#642036",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "hudson": {
+  "name": "Hudson",
+  "mascot": "Cobras",
+  "city": "hudson",
+  "maxpreps": "hudson-cobras",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#C5B358",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "north-port": {
+  "name": "North Port",
+  "mascot": "Bobcats",
+  "city": "north-port",
+  "maxpreps": "north-port-bobcats",
+  "primary": "#13294B",
+  "c1": "#091425",
+  "c2": "#19396c",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "venice": {
+  "name": "Venice",
+  "mascot": "Indians",
+  "city": "venice",
+  "maxpreps": "venice-indians",
+  "primary": "#00693E",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#E6F0EA",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "lehigh": {
+  "name": "Lehigh",
+  "mascot": "Lightning",
+  "city": "lehigh-acres",
+  "maxpreps": "lehigh-lightning",
+  "primary": "#13294B",
+  "c1": "#091425",
+  "c2": "#19396c",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "lakewood-ranch": {
+  "name": "Lakewood Ranch",
+  "mascot": "Mustangs",
+  "city": "bradenton",
+  "maxpreps": "lakewood-ranch-mustangs",
+  "primary": "#1A5632",
+  "c1": "#0a2414",
+  "c2": "#1d683b",
+  "ink": "#E6F0EA",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "riverview-sarasota": {
+  "name": "Riverview (Sarasota)",
+  "mascot": "Rams",
+  "city": "sarasota",
+  "maxpreps": "riverview-sarasota-rams",
+  "primary": "#6C1D45",
+  "c1": "#250917",
+  "c2": "#6a1a43",
+  "ink": "#EFE3E7",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "belen-jesuit": {
+  "name": "Belen Jesuit",
+  "mascot": "Wolverines",
+  "city": "miami",
+  "maxpreps": "belen-jesuit-wolverines",
+  "primary": "#002D72",
+  "c1": "#00122e",
+  "c2": "#003485",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "eau-gallie": {
+  "name": "Eau Gallie",
+  "mascot": "Commodores",
+  "city": "melbourne",
+  "maxpreps": "eau-gallie-commodores",
+  "primary": "#13294B",
+  "c1": "#091425",
+  "c2": "#19396c",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "river-ridge": {
+  "name": "River Ridge",
+  "mascot": "Royal Knights",
+  "city": "new-port-richey",
+  "maxpreps": "river-ridge-royal-knights",
+  "primary": "#582C83",
+  "c1": "#170b23",
+  "c2": "#432065",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "trinity-christian": {
+  "name": "Trinity Christian Academy",
+  "mascot": "Conquerors",
+  "city": "jacksonville",
+  "maxpreps": "trinity-christian-academy-conquerors",
+  "primary": "#0033A0",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "csn": {
+  "name": "Community School of Naples",
+  "mascot": "Seahawks",
+  "city": "naples",
+  "maxpreps": "community-school-of-naples-seahawks",
+  "primary": "#0C2340",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "UNKNOWN"
+ },
+ "cardinal-newman": {
+  "name": "Cardinal Newman",
+  "mascot": "Crusaders",
+  "city": "west-palm-beach",
+  "maxpreps": "cardinal-newman-crusaders",
+  "primary": "#003DA5",
+  "c1": "#00112e",
+  "c2": "#003185",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "edgewater-orlando": {
+  "name": "Edgewater",
+  "mascot": "Fighting Eagles",
+  "city": "orlando",
+  "maxpreps": "edgewater-eagles",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "george-jenkins": {
+  "name": "George Jenkins",
+  "mascot": "Eagles",
+  "city": "lakeland",
+  "maxpreps": "george-jenkins-eagles",
+  "primary": "#00693E",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "dunbar": {
+  "name": "Dunbar",
+  "mascot": "Fighting Tigers",
+  "city": "fort-myers",
+  "maxpreps": "dunbar-fighting-tigers",
+  "primary": "#00693E",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#FF8A3D",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "bartow": {
+  "name": "Bartow",
+  "mascot": "Yellow Jackets",
+  "city": "bartow",
+  "maxpreps": "bartow-yellow-jackets",
+  "primary": "#005EB8",
+  "c1": "#00172e",
+  "c2": "#004485",
+  "ink": "#FF8200",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "indian-rocks-christian": {
+  "name": "Indian Rocks Christian",
+  "mascot": "Golden Eagles",
+  "city": "largo",
+  "maxpreps": "indian-rocks-christian-eagles",
+  "primary": "#0033A0",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#FF5A5A",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "springstead": {
+  "name": "Springstead",
+  "mascot": "Eagles",
+  "city": "spring-hill",
+  "maxpreps": "springstead-eagles",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "weeki-wachee": {
+  "name": "Weeki Wachee",
+  "mascot": "Hornets",
+  "city": "weeki-wachee",
+  "maxpreps": "weeki-wachee-hornets",
+  "primary": "#006747",
+  "c1": "#002e20",
+  "c2": "#00855b",
+  "ink": "#6FCF97",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "south-sumter": {
+  "name": "South Sumter",
+  "mascot": "Raiders",
+  "city": "bushnell",
+  "maxpreps": "south-sumter-raiders",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "citrus": {
+  "name": "Citrus",
+  "mascot": "Hurricanes",
+  "city": "inverness",
+  "maxpreps": "citrus-hurricanes",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#C5B358",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "central-brooksville": {
+  "name": "Central",
+  "mascot": "Bears",
+  "city": "brooksville",
+  "maxpreps": "central-bears",
+  "primary": "#0C2340",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "hernando": {
+  "name": "Hernando",
+  "mascot": "Leopards",
+  "city": "brooksville",
+  "maxpreps": "hernando-leopards",
+  "primary": "#4B2E83",
+  "c1": "#130b23",
+  "c2": "#382164",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "villages-charter": {
+  "name": "The Villages Charter",
+  "mascot": "Buffalo",
+  "city": "the-villages",
+  "maxpreps": "the-villages-charter-buffalo",
+  "primary": "#00492B",
+  "c1": "#002e1b",
+  "c2": "#00854e",
+  "ink": "#6FCF97",
+  "img": null,
+  "art": false,
+  "confidence": "low"
+ },
+ "south-marion": {
+  "name": "South Marion",
+  "mascot": "Bears",
+  "city": "ocala",
+  "maxpreps": "south-marion-bears",
+  "primary": "#0C2340",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#F98A2E",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "santa-fe-catholic": {
+  "name": "Santa Fe Catholic",
+  "mascot": "Crimson Hawks",
+  "city": "lakeland",
+  "maxpreps": "santa-fe-catholic-hawks",
+  "primary": "#A6192E",
+  "c1": "#29050a",
+  "c2": "#760f1e",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "low"
+ },
+ "father-lopez": {
+  "name": "Father Lopez",
+  "mascot": "Green Wave",
+  "city": "daytona-beach",
+  "maxpreps": "father-lopez-green-wave",
+  "primary": "#007A33",
+  "c1": "#002e13",
+  "c2": "#008537",
+  "ink": "#E6F0EA",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "bishop-verot": {
+  "name": "Bishop Verot",
+  "mascot": "Vikings",
+  "city": "fort-myers",
+  "maxpreps": "bishop-verot-vikings",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "vanguard": {
+  "name": "Vanguard",
+  "mascot": "Knights",
+  "city": "ocala",
+  "maxpreps": "vanguard-knights",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "buchholz": {
+  "name": "Buchholz",
+  "mascot": "Bobcats",
+  "city": "gainesville",
+  "maxpreps": "buchholz-bobcats",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "central-fort-pierce": {
+  "name": "Fort Pierce Central",
+  "mascot": "Cobras",
+  "city": "fort-pierce",
+  "maxpreps": "central-cobras",
+  "primary": "#4B2E83",
+  "c1": "#130b23",
+  "c2": "#382164",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "lakeland": {
+  "name": "Lakeland",
+  "mascot": "Dreadnaughts",
+  "city": "lakeland",
+  "maxpreps": "lakeland-dreadnaughts",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#FF8A3D",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "mcc": {
+  "name": "Melbourne Central Catholic",
+  "mascot": "Hustlers",
+  "city": "melbourne",
+  "maxpreps": "melbourne-central-catholic-hustlers",
+  "primary": "#154734",
+  "c1": "#0a241a",
+  "c2": "#1c684b",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "west-oaks": {
+  "name": "West Oaks Academy",
+  "mascot": "Flame",
+  "city": "orlando",
+  "maxpreps": "west-oaks-academy-flame",
+  "primary": "#800000",
+  "c1": "#2e0000",
+  "c2": "#850000",
+  "ink": "#C5B358",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "out-of-door": {
+  "name": "Out-of-Door Academy",
+  "mascot": "Thunder",
+  "city": "sarasota",
+  "maxpreps": "out-of-door-academy-thunder",
+  "primary": "#0033A0",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "orangewood-christian": {
+  "name": "Orangewood Christian",
+  "mascot": "Rams",
+  "city": "maitland",
+  "maxpreps": "orangewood-christian-rams",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#FFC72C",
+  "img": null,
+  "art": false,
+  "confidence": "low"
+ },
+ "foundation-academy": {
+  "name": "Foundation Academy",
+  "mascot": "Lions",
+  "city": "winter-garden",
+  "maxpreps": "foundation-academy-lions",
+  "primary": "#181C33",
+  "c1": "#0e1120",
+  "c2": "#29315b",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "low"
+ },
+ "seffner-christian": {
+  "name": "Seffner Christian",
+  "mascot": "Crusaders",
+  "city": "seffner",
+  "maxpreps": "seffner-christian-crusaders",
+  "primary": "#800000",
+  "c1": "#2e0000",
+  "c2": "#850000",
+  "ink": "#EFE3E7",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "wildwood": {
+  "name": "Wildwood",
+  "mascot": "Wildcats",
+  "city": "wildwood",
+  "maxpreps": "wildwood-wildcats",
+  "primary": "#0057B8",
+  "c1": "#00162e",
+  "c2": "#003f85",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
+ },
+ "smarten": {
+  "name": "SmartEn Sports Academy",
+  "mascot": "Goats",
+  "city": "miami",
+  "maxpreps": "smarten-sports-academy-goats",
+  "primary": "#1A1A1A",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#C0C6CC",
+  "img": null,
+  "art": false,
+  "confidence": "UNKNOWN"
+ },
+ "taylor": {
+  "name": "Taylor",
+  "mascot": "Wildcats",
+  "city": "pierson",
+  "maxpreps": "taylor-wildcats",
+  "primary": "#C8102E",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#E8ECF2",
+  "img": null,
+  "art": false,
+  "confidence": "high"
+ },
+ "eagles-view": {
+  "name": "Eagle's View",
+  "mascot": "Warriors",
+  "city": "jacksonville",
+  "maxpreps": "eagles-view-warriors",
+  "primary": "#355E3B",
+  "c1": "#101e12",
+  "c2": "#2f5635",
+  "ink": "#6FCF97",
+  "img": null,
+  "art": false,
+  "confidence": "medium"
  }
 }
