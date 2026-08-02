@@ -1,0 +1,308 @@
+{
+ "riverview": {
+  "school": "Riverview",
+  "file": "assets/mascots/riverview.png",
+  "size": [
+   425,
+   314
+  ],
+  "src": "01_Riverview_vs_Spoto_Week1_FINAL_4.png"
+ },
+ "spoto": {
+  "school": "Spoto",
+  "file": "assets/mascots/spoto.png",
+  "size": [
+   438,
+   378
+  ],
+  "src": "01_Riverview_vs_Spoto_Week1_FINAL_4.png"
+ },
+ "gaither": {
+  "school": "Gaither",
+  "file": "assets/mascots/gaither.png",
+  "size": [
+   425,
+   353
+  ],
+  "src": "07_Gaither_vs_StrawberryCrest_Week1_FINAL.png"
+ },
+ "strawberry-crest": {
+  "school": "StrawberryCrest",
+  "file": "assets/mascots/strawberry-crest.png",
+  "size": [
+   391,
+   339
+  ],
+  "src": "07_Gaither_vs_StrawberryCrest_Week1_FINAL.png"
+ },
+ "king": {
+  "school": "King",
+  "file": "assets/mascots/king.png",
+  "size": [
+   320,
+   356
+  ],
+  "src": "08_King_vs_Durant_Week1_FINAL.png"
+ },
+ "durant": {
+  "school": "Durant",
+  "file": "assets/mascots/durant.png",
+  "size": [
+   301,
+   277
+  ],
+  "src": "08_King_vs_Durant_Week1_FINAL.png"
+ },
+ "wharton": {
+  "school": "Wharton",
+  "file": "assets/mascots/wharton.png",
+  "size": [
+   338,
+   324
+  ],
+  "src": "09_Wharton_vs_Brandon_Week1_FINAL.png"
+ },
+ "brandon": {
+  "school": "Brandon",
+  "file": "assets/mascots/brandon.png",
+  "size": [
+   401,
+   356
+  ],
+  "src": "09_Wharton_vs_Brandon_Week1_FINAL.png"
+ },
+ "sumner": {
+  "school": "Sumner",
+  "file": "assets/mascots/sumner.png",
+  "size": [
+   455,
+   314
+  ],
+  "src": "10_StrawberryCrest_vs_Sumner_Week1_FINAL.png"
+ },
+ "plant": {
+  "school": "Plant",
+  "file": "assets/mascots/plant.png",
+  "size": [
+   389,
+   334
+  ],
+  "src": "12_Plant_vs_BerkeleyPrep_Week1_FINAL.png"
+ },
+ "berkeley-prep": {
+  "school": "BerkeleyPrep",
+  "file": "assets/mascots/berkeley-prep.png",
+  "size": [
+   372,
+   359
+  ],
+  "src": "12_Plant_vs_BerkeleyPrep_Week1_FINAL.png"
+ },
+ "hillsborough": {
+  "school": "Hillsborough",
+  "file": "assets/mascots/hillsborough.png",
+  "size": [
+   314,
+   356
+  ],
+  "src": "13_Hillsborough_vs_Sarasota_Week1_FINAL.png"
+ },
+ "sarasota": {
+  "school": "Sarasota",
+  "file": "assets/mascots/sarasota.png",
+  "size": [
+   276,
+   370
+  ],
+  "src": "13_Hillsborough_vs_Sarasota_Week1_FINAL.png"
+ },
+ "tampa-bay-tech": {
+  "school": "TampaBayTech",
+  "file": "assets/mascots/tampa-bay-tech.png",
+  "size": [
+   351,
+   380
+  ],
+  "src": "14_TampaBayTech_vs_CarrollwoodDay_Week1_FINAL.png"
+ },
+ "carrollwood-day": {
+  "school": "CarrollwoodDay",
+  "file": "assets/mascots/carrollwood-day.png",
+  "size": [
+   387,
+   256
+  ],
+  "src": "14_TampaBayTech_vs_CarrollwoodDay_Week1_FINAL.png"
+ },
+ "armwood": {
+  "school": "Armwood",
+  "file": "assets/mascots/armwood.png",
+  "size": [
+   391,
+   344
+  ],
+  "src": "15_Armwood_vs_Edgewater_Week1_FINAL.png"
+ },
+ "edgewater": {
+  "school": "Edgewater",
+  "file": "assets/mascots/edgewater.png",
+  "size": [
+   379,
+   326
+  ],
+  "src": "15_Armwood_vs_Edgewater_Week1_FINAL.png"
+ },
+ "seminole": {
+  "school": "Seminole",
+  "file": "assets/mascots/seminole.png",
+  "size": [
+   380,
+   288
+  ],
+  "src": "16_Brandon_vs_Seminole_Week1_FINAL.png"
+ },
+ "jefferson": {
+  "school": "Jefferson",
+  "file": "assets/mascots/jefferson.png",
+  "size": [
+   394,
+   364
+  ],
+  "src": "17_Jefferson_vs_Dunedin_Week1_FINAL.png"
+ },
+ "dunedin": {
+  "school": "Dunedin",
+  "file": "assets/mascots/dunedin.png",
+  "size": [
+   378,
+   302
+  ],
+  "src": "17_Jefferson_vs_Dunedin_Week1_FINAL.png"
+ },
+ "lennard": {
+  "school": "Lennard",
+  "file": "assets/mascots/lennard.png",
+  "size": [
+   401,
+   402
+  ],
+  "src": "18_Lennard_vs_Osceola_Week1_FINAL.png"
+ },
+ "osceola": {
+  "school": "Osceola",
+  "file": "assets/mascots/osceola.png",
+  "size": [
+   259,
+   375
+  ],
+  "src": "18_Lennard_vs_Osceola_Week1_FINAL.png"
+ },
+ "middleton": {
+  "school": "Middleton",
+  "file": "assets/mascots/middleton.png",
+  "size": [
+   337,
+   334
+  ],
+  "src": "19_Middleton_vs_Gibbs_Week1_FINAL.png"
+ },
+ "gibbs": {
+  "school": "Gibbs",
+  "file": "assets/mascots/gibbs.png",
+  "size": [
+   257,
+   363
+  ],
+  "src": "19_Middleton_vs_Gibbs_Week1_FINAL.png"
+ },
+ "newsome": {
+  "school": "Newsome",
+  "file": "assets/mascots/newsome.png",
+  "size": [
+   375,
+   360
+  ],
+  "src": "20_Newsome_vs_Northeast_Week1_FINAL.png"
+ },
+ "northeast": {
+  "school": "Northeast",
+  "file": "assets/mascots/northeast.png",
+  "size": [
+   435,
+   423
+  ],
+  "src": "20_Newsome_vs_Northeast_Week1_FINAL.png"
+ },
+ "plant-city": {
+  "school": "PlantCity",
+  "file": "assets/mascots/plant-city.png",
+  "size": [
+   303,
+   345
+  ],
+  "src": "21_PlantCity_vs_NatureCoastTech_Week1_FINAL.png"
+ },
+ "nature-coast-tech": {
+  "school": "NatureCoastTech",
+  "file": "assets/mascots/nature-coast-tech.png",
+  "size": [
+   394,
+   358
+  ],
+  "src": "21_PlantCity_vs_NatureCoastTech_Week1_FINAL.png"
+ },
+ "alonso": {
+  "school": "Alonso",
+  "file": "assets/mascots/alonso.png",
+  "size": [
+   392,
+   301
+  ],
+  "src": "22_Alonso_vs_ZephyrhillsChristian_Week1_FINAL.png"
+ },
+ "zephyrhills-christian": {
+  "school": "ZephyrhillsChristian",
+  "file": "assets/mascots/zephyrhills-christian.png",
+  "size": [
+   274,
+   337
+  ],
+  "src": "22_Alonso_vs_ZephyrhillsChristian_Week1_FINAL.png"
+ },
+ "jesuit": {
+  "school": "Jesuit",
+  "file": "assets/mascots/jesuit.png",
+  "size": [
+   451,
+   410
+  ],
+  "src": "23_Jesuit_vs_SFA_Week1_FINAL.png"
+ },
+ "s-f-a": {
+  "school": "SFA",
+  "file": "assets/mascots/s-f-a.png",
+  "size": [
+   380,
+   343
+  ],
+  "src": "23_Jesuit_vs_SFA_Week1_FINAL.png"
+ },
+ "cambridge-christian": {
+  "school": "CambridgeChristian",
+  "file": "assets/mascots/cambridge-christian.png",
+  "size": [
+   331,
+   361
+  ],
+  "src": "24_CambridgeChristian_vs_KeswickChristian_Week1_FINAL.png"
+ },
+ "keswick-christian": {
+  "school": "KeswickChristian",
+  "file": "assets/mascots/keswick-christian.png",
+  "size": [
+   266,
+   359
+  ],
+  "src": "24_CambridgeChristian_vs_KeswickChristian_Week1_FINAL.png"
+ }
+}

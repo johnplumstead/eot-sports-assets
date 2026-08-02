@@ -1,0 +1,274 @@
+{
+ "riverview": {
+  "name": "Riverview",
+  "mascot": "Sharks",
+  "c1": "#050e29",
+  "c2": "#0d2977",
+  "ink": "#C6CDD6",
+  "img": "assets/mascots/riverview.png"
+ },
+ "spoto": {
+  "name": "Spoto",
+  "mascot": "Spartans",
+  "c1": "#190727",
+  "c2": "#471471",
+  "ink": "#B9B4C4",
+  "img": "assets/mascots/spoto.png"
+ },
+ "gaither": {
+  "name": "Gaither",
+  "mascot": "Cowboys",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#C4CBD6",
+  "img": "assets/mascots/gaither.png"
+ },
+ "strawberry-crest": {
+  "name": "Strawberry Crest",
+  "mascot": "Chargers",
+  "c1": "#2b0307",
+  "c2": "#7d0714",
+  "ink": "#C7CBD1",
+  "img": "assets/mascots/strawberry-crest.png"
+ },
+ "king": {
+  "name": "King",
+  "mascot": "Lions",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
+  "ink": "#6CACE4",
+  "img": "assets/mascots/king.png"
+ },
+ "durant": {
+  "name": "Durant",
+  "mascot": "Cougars",
+  "c1": "#00102e",
+  "c2": "#002f85",
+  "ink": "#FFC72C",
+  "img": "assets/mascots/durant.png"
+ },
+ "wharton": {
+  "name": "Wharton",
+  "mascot": "Wildcats",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#C0C6CC",
+  "img": "assets/mascots/wharton.png"
+ },
+ "brandon": {
+  "name": "Brandon",
+  "mascot": "Eagles",
+  "c1": "#2e0010",
+  "c2": "#85002f",
+  "ink": "#EFE3E7",
+  "img": "assets/mascots/brandon.png"
+ },
+ "sumner": {
+  "name": "Sumner",
+  "mascot": "Stingrays",
+  "c1": "#0d0d21",
+  "c2": "#252660",
+  "ink": "#00C264",
+  "img": "assets/mascots/sumner.png"
+ },
+ "plant": {
+  "name": "Plant",
+  "mascot": "Panthers",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#FFC72C",
+  "img": "assets/mascots/plant.png"
+ },
+ "berkeley-prep": {
+  "name": "Berkeley Prep",
+  "mascot": "Buccaneers",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#6CACE4",
+  "img": "assets/mascots/berkeley-prep.png"
+ },
+ "hillsborough": {
+  "name": "Hillsborough",
+  "mascot": "Terriers",
+  "c1": "#2b0307",
+  "c2": "#7d0714",
+  "ink": "#E8ECF2",
+  "img": "assets/mascots/hillsborough.png"
+ },
+ "sarasota": {
+  "name": "Sarasota",
+  "mascot": "Sailors",
+  "c1": "#2c0f02",
+  "c2": "#802c04",
+  "ink": "#FF9147",
+  "img": "assets/mascots/sarasota.png"
+ },
+ "tampa-bay-tech": {
+  "name": "Tampa Bay Tech",
+  "mascot": "Titans",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#E63946",
+  "img": "assets/mascots/tampa-bay-tech.png"
+ },
+ "carrollwood-day": {
+  "name": "Carrollwood Day",
+  "mascot": "Patriots",
+  "c1": "#2b0307",
+  "c2": "#7d0714",
+  "ink": "#E8ECF2",
+  "img": "assets/mascots/carrollwood-day.png"
+ },
+ "armwood": {
+  "name": "Armwood",
+  "mascot": "Hawks",
+  "c1": "#050e29",
+  "c2": "#0d2977",
+  "ink": "#C6CDD6",
+  "img": "assets/mascots/armwood.png"
+ },
+ "edgewater": {
+  "name": "Edgewater",
+  "mascot": "Fighting Eagles",
+  "c1": "#2b0307",
+  "c2": "#7d0714",
+  "ink": "#F0DADD",
+  "img": "assets/mascots/edgewater.png"
+ },
+ "seminole": {
+  "name": "Seminole",
+  "mascot": "Warhawks",
+  "c1": "#002e17",
+  "c2": "#008542",
+  "ink": "#F98A2E",
+  "img": "assets/mascots/seminole.png"
+ },
+ "jefferson": {
+  "name": "Jefferson",
+  "mascot": "Dragons",
+  "c1": "#050e29",
+  "c2": "#0d2977",
+  "ink": "#FFC72C",
+  "img": "assets/mascots/jefferson.png"
+ },
+ "dunedin": {
+  "name": "Dunedin",
+  "mascot": "Falcons",
+  "c1": "#2b0307",
+  "c2": "#7d0714",
+  "ink": "#E8ECF2",
+  "img": "assets/mascots/dunedin.png"
+ },
+ "lennard": {
+  "name": "Lennard",
+  "mascot": "Longhorns",
+  "c1": "#2e1500",
+  "c2": "#853c00",
+  "ink": "#FF9E4A",
+  "img": "assets/mascots/lennard.png"
+ },
+ "osceola": {
+  "name": "Osceola",
+  "mascot": "Warriors",
+  "c1": "#050e29",
+  "c2": "#0d2977",
+  "ink": "#F98A2E",
+  "img": "assets/mascots/osceola.png"
+ },
+ "middleton": {
+  "name": "Middleton",
+  "mascot": "Tigers",
+  "c1": "#2e0010",
+  "c2": "#85002f",
+  "ink": "#FFC72C",
+  "img": "assets/mascots/middleton.png"
+ },
+ "gibbs": {
+  "name": "Gibbs",
+  "mascot": "Gladiators",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#FFC72C",
+  "img": "assets/mascots/gibbs.png"
+ },
+ "newsome": {
+  "name": "Newsome",
+  "mascot": "Wolves",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#7BAFD4",
+  "img": "assets/mascots/newsome.png"
+ },
+ "northeast": {
+  "name": "Northeast",
+  "mascot": "Vikings",
+  "c1": "#29050b",
+  "c2": "#750f20",
+  "ink": "#F5E6C8",
+  "img": "assets/mascots/northeast.png"
+ },
+ "plant-city": {
+  "name": "Plant City",
+  "mascot": "Raiders",
+  "c1": "#002e2e",
+  "c2": "#008585",
+  "ink": "#FF8A3D",
+  "img": "assets/mascots/plant-city.png"
+ },
+ "nature-coast-tech": {
+  "name": "Nature Coast Tech",
+  "mascot": "Sharks",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#6CACE4",
+  "img": "assets/mascots/nature-coast-tech.png"
+ },
+ "alonso": {
+  "name": "Alonso",
+  "mascot": "Ravens",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#D3C577",
+  "img": "assets/mascots/alonso.png"
+ },
+ "zephyrhills-christian": {
+  "name": "Zephyrhills Christian",
+  "mascot": "Warriors",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#FFC72C",
+  "img": "assets/mascots/zephyrhills-christian.png"
+ },
+ "jesuit": {
+  "name": "Jesuit",
+  "mascot": "Tigers",
+  "c1": "#000f2e",
+  "c2": "#002a85",
+  "ink": "#8FBCEC",
+  "img": "assets/mascots/jesuit.png"
+ },
+ "s-f-a": {
+  "name": "S F A",
+  "mascot": "Rams",
+  "c1": "#28060a",
+  "c2": "#74101c",
+  "ink": "#D9A441",
+  "img": "assets/mascots/s-f-a.png"
+ },
+ "cambridge-christian": {
+  "name": "Cambridge Christian",
+  "mascot": "Lancers",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#FFC72C",
+  "img": "assets/mascots/cambridge-christian.png"
+ },
+ "keswick-christian": {
+  "name": "Keswick Christian",
+  "mascot": "Crusaders",
+  "c1": "#082614",
+  "c2": "#186d3a",
+  "ink": "#6FCF97",
+  "img": "assets/mascots/keswick-christian.png"
+ }
+}

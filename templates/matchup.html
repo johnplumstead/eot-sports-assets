@@ -1,0 +1,120 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Anton';src:url('FONT_ANTON') format('woff2');font-weight:400}
+@font-face{font-family:'BarCon';src:url('FONT_BC800I') format('woff2');font-weight:800;font-style:italic}
+@font-face{font-family:'BarCon';src:url('FONT_BC800') format('woff2');font-weight:800;font-style:normal}
+@font-face{font-family:'BarCon';src:url('FONT_BC600') format('woff2');font-weight:600;font-style:normal}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;overflow:hidden;background:#0a1020;
+ font-family:'BarCon',sans-serif;-webkit-font-smoothing:antialiased}
+.stage{position:relative;width:1080px;height:1350px;
+ background:
+  radial-gradient(760px 420px at 8% 6%, rgba(150,195,255,.30), transparent 62%),
+  radial-gradient(760px 420px at 92% 6%, rgba(150,195,255,.30), transparent 62%),
+  radial-gradient(900px 700px at 50% 34%, #16233f 0%, #0d1526 58%, #070c17 100%);
+ overflow:hidden}
+.stage::after{content:'';position:absolute;inset:0;opacity:.16;pointer-events:none;
+ background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140'><filter id='n'><feTurbulence baseFrequency='.85' numOctaves='3'/></filter><rect width='140' height='140' filter='url(%23n)'/></svg>")}
+.beam{position:absolute;top:-60px;width:300px;height:520px;pointer-events:none;
+ background:linear-gradient(180deg,rgba(190,220,255,.55),rgba(190,220,255,0) 72%);
+ filter:blur(26px)}
+.beam.l{left:-40px;transform:rotate(19deg)} .beam.r{right:-40px;transform:rotate(-19deg)}
+
+/* header */
+.hdr{position:relative;height:150px;background:#05070d;display:flex;flex-direction:column;
+ align-items:center;justify-content:center;z-index:5}
+.hdr h1{font-family:'Anton';font-size:88px;letter-spacing:1px;color:#fff;line-height:.92}
+.sub{display:flex;align-items:center;gap:18px;margin-top:8px}
+.sub span{font-weight:800;font-size:33px;letter-spacing:7px;color:#fff}
+.sub i{display:block;width:150px;height:3px;background:#fff;opacity:.9}
+
+/* headline */
+.head{position:relative;z-index:4;text-align:center;margin-top:38px}
+.head .l1{font-weight:800;font-style:italic;font-size:118px;line-height:.86;color:#fff;
+ letter-spacing:-1px;text-shadow:0 6px 0 rgba(0,0,0,.55)}
+.head .l2{font-weight:800;font-style:italic;font-size:132px;line-height:.88;color:#d81f2a;
+ letter-spacing:-1px;-webkit-text-stroke:5px #fff;paint-order:stroke fill;
+ text-shadow:0 7px 0 rgba(0,0,0,.5)}
+.wk{display:flex;align-items:center;justify-content:center;gap:20px;margin-top:14px}
+.wk span{font-weight:800;font-size:44px;letter-spacing:10px;color:#fff}
+.wk i{display:block;width:120px;height:3px;background:#fff;opacity:.85}
+
+/* matchup panel */
+.panel{position:relative;z-index:4;margin:26px auto 0;width:1000px;height:500px;
+ border-radius:14px;overflow:hidden;box-shadow:0 0 0 5px var(--edge),0 22px 46px rgba(0,0,0,.55)}
+.half{position:absolute;top:0;height:100%;width:52%;
+ background-image:
+  repeating-linear-gradient(115deg,rgba(255,255,255,.05) 0 3px,transparent 3px 9px),
+  radial-gradient(120% 120% at 50% 40%,var(--c2),var(--c1))}
+.half.a{left:0;clip-path:polygon(0 0,100% 0,86% 100%,0 100%)}
+.half.b{right:0;clip-path:polygon(14% 0,100% 0,100% 100%,0 100%)}
+.split{position:absolute;left:50%;top:-6%;width:9px;height:112%;background:#fff;
+ transform:translateX(-50%) rotate(7deg);box-shadow:0 0 26px rgba(255,255,255,.65)}
+.side{position:absolute;top:0;height:100%;width:47%;display:flex;flex-direction:column;
+ align-items:center;justify-content:flex-start;padding-top:26px}
+.side.a{left:8px} .side.b{right:8px}
+.side img{width:330px;height:275px;object-fit:contain;filter:drop-shadow(0 12px 20px rgba(0,0,0,.6))}
+.nm{margin-top:12px;text-align:center;line-height:.9}
+.nm .s{font-weight:800;font-size:44px;letter-spacing:2px;color:#fff;
+ text-shadow:0 3px 0 rgba(0,0,0,.6)}
+.nm .m{font-weight:800;font-style:italic;font-size:74px;letter-spacing:0;color:var(--ink);
+ -webkit-text-stroke:4px #fff;paint-order:stroke fill;text-shadow:0 5px 0 rgba(0,0,0,.5)}
+.vs{position:absolute;left:50%;top:44%;transform:translate(-50%,-50%);z-index:6;
+ font-weight:800;font-style:italic;font-size:96px;color:#fff;text-shadow:0 6px 14px rgba(0,0,0,.8)}
+
+/* info bar */
+.info{position:relative;z-index:4;display:flex;align-items:center;justify-content:center;
+ gap:26px;margin-top:26px;font-weight:800;font-size:52px;color:#fff;letter-spacing:1px}
+.info svg{width:42px;height:42px;vertical-align:-6px;margin-right:10px;fill:#fff}
+.info .dot{width:12px;height:12px;border-radius:50%;background:#d81f2a}
+
+/* cta + footer */
+.rule{position:absolute;left:0;width:100%;height:4px;z-index:6}
+.cta{position:absolute;left:0;bottom:186px;width:100%;height:60px;background:#101c33;
+ display:flex;align-items:center;justify-content:center;z-index:6}
+.cta b{font-weight:800;font-size:31px;color:#f2c14e;letter-spacing:.3px}
+.ftr{position:absolute;left:0;bottom:0;width:100%;height:182px;background:#101c33;
+ display:flex;align-items:center;padding:0 34px 12px;z-index:6}
+.ftr .pic{width:152px;height:152px;border-radius:50%;border:4px solid #fff;object-fit:cover;flex:none}
+.ftr .txt{margin-left:26px;flex:1}
+.ftr .by{font-weight:800;font-size:26px;letter-spacing:2px;color:#f2c14e}
+.ftr .nm2{font-family:'Anton';font-size:53px;color:#fff;line-height:1.02;letter-spacing:.5px}
+.ftr .role{font-weight:800;font-size:25px;letter-spacing:1.6px;color:#f2c14e;margin-top:1px}
+.ftr .ct{font-weight:600;font-size:26px;color:#dfe6f2;line-height:1.18;margin-top:3px}
+.ftr .brand{height:120px;object-fit:contain;flex:none;margin-left:20px}
+</style></head><body>
+<div class="stage">
+ <div class="beam l"></div><div class="beam r"></div>
+ <div class="hdr"><h1>EAST OF TAMPA</h1><div class="sub"><i></i><span>LOCAL SPORTS</span><i></i></div></div>
+ <div class="head"><div class="l1">{{L1}}</div><div class="l2">{{L2}}</div>
+  <div class="wk"><i></i><span>{{WEEK}}</span><i></i></div></div>
+
+ <div class="panel" style="--edge:{{EDGE}}">
+  <div class="half a" style="--c1:{{A1}};--c2:{{A2}}"></div>
+  <div class="half b" style="--c1:{{B1}};--c2:{{B2}}"></div>
+  <div class="split"></div>
+  <div class="side a"><img src="{{AIMG}}"><div class="nm"><div class="s">{{ASCHOOL}}</div>
+   <div class="m" style="--ink:{{AINK}}">{{AMASCOT}}</div></div></div>
+  <div class="side b"><img src="{{BIMG}}"><div class="nm"><div class="s">{{BSCHOOL}}</div>
+   <div class="m" style="--ink:{{BINK}}">{{BMASCOT}}</div></div></div>
+  <div class="vs">VS</div>
+ </div>
+
+ <div class="info">
+  <div><svg viewBox="0 0 24 24"><path d="M7 2v2H4a2 2 0 00-2 2v14a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2h-3V2h-2v2H9V2H7zm13 8v10H4V10h16z"/></svg>{{DATE}}</div>
+  <div class="dot"></div>
+  <div><svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zm0 2a8 8 0 110 16 8 8 0 010-16zm1 3h-2v6l4.6 2.8 1-1.7-3.6-2.2V7z" fill-rule="evenodd"/></svg>{{TIME}}</div>
+  <div class="dot"></div>
+  <div><svg viewBox="0 0 24 24"><path d="M12 2a7 7 0 00-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 00-7-7zm0 9.5A2.5 2.5 0 1112 6.5a2.5 2.5 0 010 5z"/></svg>{{VENUE}}</div>
+ </div>
+
+ <div class="rule" style="bottom:246px;background:#d81f2a"></div>
+ <div class="cta"><b>{{CTA}}</b></div>
+ <div class="rule" style="bottom:182px;background:#f2c14e"></div>
+ <div class="ftr">
+  <img class="pic" src="{{SPONSOR_PIC}}">
+  <div class="txt"><div class="by">{{SPONSOR_BY}}</div><div class="nm2">{{SPONSOR_NAME}}</div>
+   <div class="role">{{SPONSOR_ROLE}}</div><div class="ct">{{SPONSOR_PHONE}}<br>{{SPONSOR_WEB}}</div></div>
+  <img class="brand" src="{{SPONSOR_LOGO}}">
+ </div>
+</div></body></html>
