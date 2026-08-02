@@ -1,0 +1,586 @@
+[
+ {
+  "date": "2026-08-14",
+  "home": "alonso",
+  "away": "zephyrhills-christian",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "berkeley-prep",
+  "away": "plant",
+  "time": "7:00 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "carrollwood-day",
+  "away": "tampa-bay-tech",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "gaither",
+  "away": "strawberry-crest",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "jefferson",
+  "away": "dunedin",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "lennard",
+  "away": "osceola",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "middleton",
+  "away": "gibbs",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "newsome",
+  "away": "northeast",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "riverview",
+  "away": "spoto",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "sarasota",
+  "away": "hillsborough",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-14",
+  "home": "seminole",
+  "away": "brandon",
+  "time": "7:30 PM",
+  "label": "AUG 14",
+  "week": 1
+ },
+ {
+  "date": "2026-08-21",
+  "home": "armwood",
+  "away": "lennard",
+  "time": "7:30 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-21",
+  "home": "dunedin",
+  "away": "northeast",
+  "time": "7:30 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-21",
+  "home": "durant",
+  "away": "king",
+  "time": "7:30 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-21",
+  "home": "jesuit",
+  "away": "s-f-a",
+  "time": "7:30 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-21",
+  "home": "keswick-christian",
+  "away": "cambridge-christian",
+  "time": "7:00 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-21",
+  "home": "middleton",
+  "away": "alonso",
+  "time": "7:30 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-21",
+  "home": "seminole",
+  "away": "osceola",
+  "time": "7:30 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-21",
+  "home": "strawberry-crest",
+  "away": "sumner",
+  "time": "7:30 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-21",
+  "home": "wharton",
+  "away": "brandon",
+  "time": "7:30 PM",
+  "label": "AUG 21",
+  "week": 2
+ },
+ {
+  "date": "2026-08-28",
+  "home": "gaither",
+  "away": "plant",
+  "time": "7:30 PM",
+  "label": "AUG 28",
+  "week": 3
+ },
+ {
+  "date": "2026-08-28",
+  "home": "osceola",
+  "away": "gibbs",
+  "time": "7:30 PM",
+  "label": "AUG 28",
+  "week": 3
+ },
+ {
+  "date": "2026-08-28",
+  "home": "strawberry-crest",
+  "away": "durant",
+  "time": "7:30 PM",
+  "label": "AUG 28",
+  "week": 3
+ },
+ {
+  "date": "2026-08-28",
+  "home": "sumner",
+  "away": "tampa-bay-tech",
+  "time": "7:30 PM",
+  "label": "AUG 28",
+  "week": 3
+ },
+ {
+  "date": "2026-09-04",
+  "home": "alonso",
+  "away": "riverview",
+  "time": "7:30 PM",
+  "label": "SEP 4",
+  "week": 4
+ },
+ {
+  "date": "2026-09-04",
+  "home": "hillsborough",
+  "away": "plant",
+  "time": "7:30 PM",
+  "label": "SEP 4",
+  "week": 4
+ },
+ {
+  "date": "2026-09-04",
+  "home": "plant-city",
+  "away": "armwood",
+  "time": "7:30 PM",
+  "label": "SEP 4",
+  "week": 4
+ },
+ {
+  "date": "2026-09-04",
+  "home": "sumner",
+  "away": "gaither",
+  "time": "7:30 PM",
+  "label": "SEP 4",
+  "week": 4
+ },
+ {
+  "date": "2026-09-04",
+  "home": "tampa-bay-tech",
+  "away": "jefferson",
+  "time": "7:30 PM",
+  "label": "SEP 4",
+  "week": 4
+ },
+ {
+  "date": "2026-09-10",
+  "home": "armwood",
+  "away": "spoto",
+  "time": "7:00 PM",
+  "label": "SEP 10",
+  "week": 5
+ },
+ {
+  "date": "2026-09-10",
+  "home": "king",
+  "away": "strawberry-crest",
+  "time": "7:00 PM",
+  "label": "SEP 10",
+  "week": 5
+ },
+ {
+  "date": "2026-09-10",
+  "home": "lennard",
+  "away": "newsome",
+  "time": "7:00 PM",
+  "label": "SEP 10",
+  "week": 5
+ },
+ {
+  "date": "2026-09-10",
+  "home": "plant",
+  "away": "tampa-bay-tech",
+  "time": "7:00 PM",
+  "label": "SEP 10",
+  "week": 5
+ },
+ {
+  "date": "2026-09-10",
+  "home": "riverview",
+  "away": "plant-city",
+  "time": "7:00 PM",
+  "label": "SEP 10",
+  "week": 5
+ },
+ {
+  "date": "2026-09-10",
+  "home": "sumner",
+  "away": "durant",
+  "time": "7:00 PM",
+  "label": "SEP 10",
+  "week": 5
+ },
+ {
+  "date": "2026-09-18",
+  "home": "alonso",
+  "away": "wharton",
+  "time": "7:30 PM",
+  "label": "SEP 18",
+  "week": 6
+ },
+ {
+  "date": "2026-09-18",
+  "home": "armwood",
+  "away": "sumner",
+  "time": "7:30 PM",
+  "label": "SEP 18",
+  "week": 6
+ },
+ {
+  "date": "2026-09-18",
+  "home": "durant",
+  "away": "plant",
+  "time": "7:30 PM",
+  "label": "SEP 18",
+  "week": 6
+ },
+ {
+  "date": "2026-09-18",
+  "home": "newsome",
+  "away": "jefferson",
+  "time": "7:30 PM",
+  "label": "SEP 18",
+  "week": 6
+ },
+ {
+  "date": "2026-09-18",
+  "home": "tampa-bay-tech",
+  "away": "gaither",
+  "time": "7:30 PM",
+  "label": "SEP 18",
+  "week": 6
+ },
+ {
+  "date": "2026-09-25",
+  "home": "durant",
+  "away": "riverview",
+  "time": "7:30 PM",
+  "label": "SEP 25",
+  "week": 7
+ },
+ {
+  "date": "2026-09-25",
+  "home": "gibbs",
+  "away": "seminole",
+  "time": "7:30 PM",
+  "label": "SEP 25",
+  "week": 7
+ },
+ {
+  "date": "2026-09-25",
+  "home": "middleton",
+  "away": "jesuit",
+  "time": "7:30 PM",
+  "label": "SEP 25",
+  "week": 7
+ },
+ {
+  "date": "2026-09-25",
+  "home": "plant-city",
+  "away": "lennard",
+  "time": "7:30 PM",
+  "label": "SEP 25",
+  "week": 7
+ },
+ {
+  "date": "2026-09-25",
+  "home": "plant",
+  "away": "armwood",
+  "time": "7:30 PM",
+  "label": "SEP 25",
+  "week": 7
+ },
+ {
+  "date": "2026-09-25",
+  "home": "zephyrhills-christian",
+  "away": "carrollwood-day",
+  "time": "7:30 PM",
+  "label": "SEP 25",
+  "week": 7
+ },
+ {
+  "date": "2026-10-02",
+  "home": "alonso",
+  "away": "newsome",
+  "time": "7:30 PM",
+  "label": "OCT 2",
+  "week": 8
+ },
+ {
+  "date": "2026-10-02",
+  "home": "durant",
+  "away": "spoto",
+  "time": "7:30 PM",
+  "label": "OCT 2",
+  "week": 8
+ },
+ {
+  "date": "2026-10-02",
+  "home": "gaither",
+  "away": "plant-city",
+  "time": "7:30 PM",
+  "label": "OCT 2",
+  "week": 8
+ },
+ {
+  "date": "2026-10-02",
+  "home": "jefferson",
+  "away": "sumner",
+  "time": "7:30 PM",
+  "label": "OCT 2",
+  "week": 8
+ },
+ {
+  "date": "2026-10-02",
+  "home": "king",
+  "away": "hillsborough",
+  "time": "7:30 PM",
+  "label": "OCT 2",
+  "week": 8
+ },
+ {
+  "date": "2026-10-02",
+  "home": "lennard",
+  "away": "tampa-bay-tech",
+  "time": "7:30 PM",
+  "label": "OCT 2",
+  "week": 8
+ },
+ {
+  "date": "2026-10-09",
+  "home": "alonso",
+  "away": "strawberry-crest",
+  "time": "7:30 PM",
+  "label": "OCT 9",
+  "week": 9
+ },
+ {
+  "date": "2026-10-09",
+  "home": "dunedin",
+  "away": "seminole",
+  "time": "7:30 PM",
+  "label": "OCT 9",
+  "week": 9
+ },
+ {
+  "date": "2026-10-09",
+  "home": "lennard",
+  "away": "durant",
+  "time": "7:30 PM",
+  "label": "OCT 9",
+  "week": 9
+ },
+ {
+  "date": "2026-10-09",
+  "home": "newsome",
+  "away": "plant-city",
+  "time": "7:30 PM",
+  "label": "OCT 9",
+  "week": 9
+ },
+ {
+  "date": "2026-10-09",
+  "home": "northeast",
+  "away": "osceola",
+  "time": "7:30 PM",
+  "label": "OCT 9",
+  "week": 9
+ },
+ {
+  "date": "2026-10-09",
+  "home": "riverview",
+  "away": "gaither",
+  "time": "7:30 PM",
+  "label": "OCT 9",
+  "week": 9
+ },
+ {
+  "date": "2026-10-09",
+  "home": "tampa-bay-tech",
+  "away": "armwood",
+  "time": "7:30 PM",
+  "label": "OCT 9",
+  "week": 9
+ },
+ {
+  "date": "2026-10-16",
+  "home": "durant",
+  "away": "newsome",
+  "time": "7:30 PM",
+  "label": "OCT 16",
+  "week": 10
+ },
+ {
+  "date": "2026-10-16",
+  "home": "hillsborough",
+  "away": "middleton",
+  "time": "7:30 PM",
+  "label": "OCT 16",
+  "week": 10
+ },
+ {
+  "date": "2026-10-16",
+  "home": "plant-city",
+  "away": "strawberry-crest",
+  "time": "7:30 PM",
+  "label": "OCT 16",
+  "week": 10
+ },
+ {
+  "date": "2026-10-16",
+  "home": "riverview",
+  "away": "lennard",
+  "time": "7:30 PM",
+  "label": "OCT 16",
+  "week": 10
+ },
+ {
+  "date": "2026-10-16",
+  "home": "spoto",
+  "away": "plant",
+  "time": "7:30 PM",
+  "label": "OCT 16",
+  "week": 10
+ },
+ {
+  "date": "2026-10-23",
+  "home": "gibbs",
+  "away": "dunedin",
+  "time": "7:30 PM",
+  "label": "OCT 23",
+  "week": 11
+ },
+ {
+  "date": "2026-10-23",
+  "home": "hillsborough",
+  "away": "jesuit",
+  "time": "7:30 PM",
+  "label": "OCT 23",
+  "week": 11
+ },
+ {
+  "date": "2026-10-23",
+  "home": "jefferson",
+  "away": "king",
+  "time": "7:30 PM",
+  "label": "OCT 23",
+  "week": 11
+ },
+ {
+  "date": "2026-10-23",
+  "home": "newsome",
+  "away": "riverview",
+  "time": "7:30 PM",
+  "label": "OCT 23",
+  "week": 11
+ },
+ {
+  "date": "2026-10-23",
+  "home": "plant-city",
+  "away": "durant",
+  "time": "7:30 PM",
+  "label": "OCT 23",
+  "week": 11
+ },
+ {
+  "date": "2026-10-23",
+  "home": "spoto",
+  "away": "tampa-bay-tech",
+  "time": "7:30 PM",
+  "label": "OCT 23",
+  "week": 11
+ },
+ {
+  "date": "2026-10-30",
+  "home": "armwood",
+  "away": "jefferson",
+  "time": "7:30 PM",
+  "label": "OCT 30",
+  "week": 12
+ },
+ {
+  "date": "2026-10-30",
+  "home": "lennard",
+  "away": "strawberry-crest",
+  "time": "7:30 PM",
+  "label": "OCT 30",
+  "week": 12
+ },
+ {
+  "date": "2026-10-30",
+  "home": "plant",
+  "away": "sumner",
+  "time": "7:30 PM",
+  "label": "OCT 30",
+  "week": 12
+ }
+]
