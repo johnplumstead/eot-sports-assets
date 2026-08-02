@@ -2,7 +2,7 @@
 # Commits and pushes anything new in the repo. Run by launchd every 15 minutes.
 # Credentials come from the macOS Keychain, so no token is stored in this file.
 set -u
-REPO="$HOME/Downloads/eot-sports"
+REPO="$HOME/Sites/eot-sports"
 GIT=/usr/bin/git
 cd "$REPO" || exit 1
 [ -z "$($GIT status --porcelain)" ] && exit 0
