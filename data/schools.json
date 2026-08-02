@@ -167,7 +167,9 @@
   "ink": "#F0DADD",
   "img": "assets/mascots/edgewater.png",
   "maxpreps": "edgewater-eagles",
-  "art": true
+  "art": true,
+  "city": "orlando",
+  "note": "Orlando, Orange County. Not a Tampa Bay school but plays one game on the schedule."
  },
  "seminole": {
   "name": "Seminole",
@@ -296,7 +298,7 @@
   "c2": "#133d72",
   "ink": "#FFC72C",
   "img": "assets/mascots/zephyrhills-christian.png",
-  "maxpreps": "zephyrhills-christian-warriors",
+  "maxpreps": "zephyrhills-christian-academy-warriors",
   "art": true
  },
  "jesuit": {
@@ -1167,19 +1169,6 @@
   "c1": "#00112e",
   "c2": "#003185",
   "ink": "#FFC72C",
-  "img": null,
-  "art": false,
-  "confidence": "high"
- },
- "edgewater-orlando": {
-  "name": "Edgewater",
-  "mascot": "Fighting Eagles",
-  "city": "orlando",
-  "maxpreps": "edgewater-eagles",
-  "primary": "#C8102E",
-  "c1": "#2b0209",
-  "c2": "#7e071a",
-  "ink": "#E8ECF2",
   "img": null,
   "art": false,
   "confidence": "high"

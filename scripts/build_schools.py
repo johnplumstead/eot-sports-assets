@@ -87,7 +87,6 @@ NEW = [
  ("trinity-christian","Trinity Christian Academy","Conquerors","jacksonville","trinity-christian-academy-conquerors","#0033A0","#E8ECF2","medium"),
  ("csn","Community School of Naples","Seahawks","naples","community-school-of-naples-seahawks","#0C2340","#FFC72C","UNKNOWN"),
  ("cardinal-newman","Cardinal Newman","Crusaders","west-palm-beach","cardinal-newman-crusaders","#003DA5","#FFC72C","high"),
- ("edgewater-orlando","Edgewater","Fighting Eagles","orlando","edgewater-eagles","#C8102E","#E8ECF2","high"),
  ("george-jenkins","George Jenkins","Eagles","lakeland","george-jenkins-eagles","#00693E","#FFC72C","high"),
  ("dunbar","Dunbar","Fighting Tigers","fort-myers","dunbar-fighting-tigers","#00693E","#FF8A3D","high"),
  ("bartow","Bartow","Yellow Jackets","bartow","bartow-yellow-jackets","#005EB8","#FF8200","high"),
@@ -137,7 +136,7 @@ MP34 = {
  "osceola":"osceola-warriors","middleton":"middleton-tigers","gibbs":"gibbs-gladiators",
  "newsome":"newsome-wolves","northeast":"northeast-vikings","plant-city":"plant-city-raiders",
  "nature-coast-tech":"nature-coast-tech-sharks","alonso":"alonso-ravens",
- "zephyrhills-christian":"zephyrhills-christian-warriors","jesuit":"jesuit-tigers",
+ "zephyrhills-christian":"zephyrhills-christian-academy-warriors","jesuit":"jesuit-tigers",
  "s-f-a":"specially-fit-academy-rams","cambridge-christian":"cambridge-christian-lancers",
  "keswick-christian":"keswick-christian-crusaders",
 }

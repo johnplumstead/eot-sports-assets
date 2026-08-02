@@ -17,11 +17,9 @@ const FONTS={
  const t0=Date.now();
  for(const r of rows){
   let h=tpl; for(const[k,v]of Object.entries(FONTS))h=h.split(k).join(v);
-  for(const[k,v]of Object.entries(r)){
-   let val=v;
-   if(/IMG|PIC|LOGO/.test(k)&&typeof v==='string'&&!v.startsWith('data:'))val=b64(path.resolve(ROOT,v));
-   h=h.split('{{'+k+'}}').join(val);
-  }
+  for(const[k,v]of Object.entries(r)) h=h.split('{{'+k+'}}').join(v);
+  // inline every local png reference, wherever it came from
+  h=h.replace(/src="(?!data:)([^"]+\.png)"/g,(m,p)=>`src="${b64(path.resolve(ROOT,p))}"`);
   await pg.setContent(h,{waitUntil:'load'});
   await pg.evaluate(()=>document.fonts.ready);
   await pg.screenshot({path:ROOT+'/out/'+r.OUT,type:'png'});

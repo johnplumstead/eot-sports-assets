@@ -57,15 +57,24 @@ body{width:1080px;height:1350px;overflow:hidden;background:#0a1020;
 .nm{margin-top:12px;text-align:center;line-height:.9}
 .nm .s{font-weight:800;font-size:44px;letter-spacing:2px;color:#fff;
  text-shadow:0 3px 0 rgba(0,0,0,.6)}
-.nm .m{font-weight:800;font-style:italic;font-size:74px;letter-spacing:0;color:var(--ink);
+.nm .m{font-weight:800;font-style:italic;font-size:var(--ms,74px);letter-spacing:0;color:var(--ink);
  -webkit-text-stroke:4px #fff;paint-order:stroke fill;text-shadow:0 5px 0 rgba(0,0,0,.5)}
 .vs{position:absolute;left:50%;top:44%;transform:translate(-50%,-50%);z-index:6;
  font-weight:800;font-style:italic;font-size:96px;color:#fff;text-shadow:0 6px 14px rgba(0,0,0,.8)}
 
+.crest{width:330px;height:275px;display:flex;align-items:center;justify-content:center;
+ position:relative;filter:drop-shadow(0 12px 20px rgba(0,0,0,.55))}
+.crest .sh{position:absolute;inset:6px 16px;background:rgba(255,255,255,.07);
+ border:6px solid var(--cr);border-radius:18px 18px 40% 40%/18px 18px 30% 30%;
+ box-shadow:inset 0 0 40px rgba(0,0,0,.45)}
+.crest b{position:relative;font-weight:800;font-style:italic;font-size:150px;line-height:1;
+ color:var(--cr);-webkit-text-stroke:6px rgba(255,255,255,.92);paint-order:stroke fill;
+ letter-spacing:-4px}
+
 /* info bar */
 .info{position:relative;z-index:4;display:flex;align-items:center;justify-content:center;
- gap:26px;margin-top:26px;font-weight:800;font-size:52px;color:#fff;letter-spacing:1px}
-.info svg{width:42px;height:42px;vertical-align:-6px;margin-right:10px;fill:#fff}
+ gap:var(--ig,26px);margin-top:26px;font-weight:800;font-size:var(--is,52px);color:#fff;letter-spacing:1px}
+.info svg{width:calc(var(--is,52px)*.81);height:calc(var(--is,52px)*.81);vertical-align:-6px;margin-right:10px;fill:#fff}
 .info .dot{width:12px;height:12px;border-radius:50%;background:#d81f2a}
 
 /* cta + footer */
@@ -93,14 +102,14 @@ body{width:1080px;height:1350px;overflow:hidden;background:#0a1020;
   <div class="half a" style="--c1:{{A1}};--c2:{{A2}}"></div>
   <div class="half b" style="--c1:{{B1}};--c2:{{B2}}"></div>
   <div class="split"></div>
-  <div class="side a"><img src="{{AIMG}}"><div class="nm"><div class="s">{{ASCHOOL}}</div>
-   <div class="m" style="--ink:{{AINK}}">{{AMASCOT}}</div></div></div>
-  <div class="side b"><img src="{{BIMG}}"><div class="nm"><div class="s">{{BSCHOOL}}</div>
-   <div class="m" style="--ink:{{BINK}}">{{BMASCOT}}</div></div></div>
+  <div class="side a">{{AART}}<div class="nm"><div class="s">{{ASCHOOL}}</div>
+   <div class="m" style="--ink:{{AINK}};--ms:{{AMS}}">{{AMASCOT}}</div></div></div>
+  <div class="side b">{{BART}}<div class="nm"><div class="s">{{BSCHOOL}}</div>
+   <div class="m" style="--ink:{{BINK}};--ms:{{BMS}}">{{BMASCOT}}</div></div></div>
   <div class="vs">VS</div>
  </div>
 
- <div class="info">
+ <div class="info" style="--is:{{INFOSZ}};--ig:{{INFOGAP}}">
   <div><svg viewBox="0 0 24 24"><path d="M7 2v2H4a2 2 0 00-2 2v14a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2h-3V2h-2v2H9V2H7zm13 8v10H4V10h16z"/></svg>{{DATE}}</div>
   <div class="dot"></div>
   <div><svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zm0 2a8 8 0 110 16 8 8 0 010-16zm1 3h-2v6l4.6 2.8 1-1.7-3.6-2.2V7z" fill-rule="evenodd"/></svg>{{TIME}}</div>
