@@ -2,52 +2,90 @@
  "riverview": {
   "name": "Riverview",
   "mascot": "Sharks",
-  "c1": "#050e29",
-  "c2": "#0d2977",
-  "ink": "#C6CDD6",
+  "c1": "#171717",
+  "c2": "#424242",
+  "ink": "#4D8FE0",
   "img": "assets/mascots/riverview.png",
   "maxpreps": "riverview-sharks",
-  "art": true
+  "art": true,
+  "city": "riverview",
+  "county": "hillsborough",
+  "primary": "#1A1A1A",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Black is a primary per the 1998 school board record: black, royal blue, silver.",
+  "verified": "2026-08-02"
  },
  "spoto": {
   "name": "Spoto",
   "mascot": "Spartans",
-  "c1": "#190727",
-  "c2": "#471471",
+  "c1": "#170b23",
+  "c2": "#432065",
   "ink": "#B9B4C4",
   "img": "assets/mascots/spoto.png",
   "maxpreps": "spoto-spartans",
-  "art": true
+  "art": true,
+  "city": "riverview",
+  "county": "hillsborough",
+  "primary": "#582C83",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Purple and gray; black is an accent.",
+  "verified": "2026-08-02"
  },
  "gaither": {
   "name": "Gaither",
   "mascot": "Cowboys",
-  "c1": "#000f2e",
-  "c2": "#002a85",
-  "ink": "#C4CBD6",
+  "c1": "#061527",
+  "c2": "#133d72",
+  "ink": "#C0C6CC",
   "img": "assets/mascots/gaither.png",
   "maxpreps": "gaither-cowboys",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "primary": "#0C2340",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Blue shade resolved to navy by the alumni site.",
+  "verified": "2026-08-02"
  },
  "strawberry-crest": {
   "name": "Strawberry Crest",
   "mascot": "Chargers",
-  "c1": "#2b0307",
-  "c2": "#7d0714",
+  "c1": "#29050a",
+  "c2": "#760f1e",
   "ink": "#C7CBD1",
   "img": "assets/mascots/strawberry-crest.png",
   "maxpreps": "strawberry-crest-chargers",
-  "art": true
+  "art": true,
+  "city": "dover",
+  "county": "hillsborough",
+  "primary": "#A6192E",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Red and black are the core pair; silver is third and is used here as the accent.",
+  "verified": "2026-08-02"
  },
  "king": {
   "name": "King",
   "mascot": "Lions",
   "c1": "#2b0209",
   "c2": "#7e071a",
-  "ink": "#6CACE4",
+  "ink": "#5B8FE8",
   "img": "assets/mascots/king.png",
   "maxpreps": "king-lions",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "primary": "#C8102E",
+  "confidence": "low",
+  "source_tier": 5,
+  "note": "Red and royal. 'Columbia blue' came from a Wikipedia infobox that no longer has a colors field.",
+  "verified": "2026-08-02",
+  "legal_name": "C. Leon King High School",
+  "art_stale": true,
+  "art_note": "Art is a purple/gold lion; verified colors are red and royal blue."
  },
  "durant": {
   "name": "Durant",
@@ -57,7 +95,12 @@
   "ink": "#FFC72C",
   "img": "assets/mascots/durant.png",
   "maxpreps": "durant-cougars",
-  "art": true
+  "art": true,
+  "city": "plant-city",
+  "county": "hillsborough",
+  "verified": "2026-08-02",
+  "confidence": "medium",
+  "source_tier": 4
  },
  "wharton": {
   "name": "Wharton",
@@ -67,27 +110,50 @@
   "ink": "#C0C6CC",
   "img": "assets/mascots/wharton.png",
   "maxpreps": "wharton-wildcats",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "primary": "#0C2340",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Navy, white and gray. White is a core colour, gray is the documented word rather than silver.",
+  "verified": "2026-08-02",
+  "legal_name": "Paul R. Wharton High School"
  },
  "brandon": {
   "name": "Brandon",
   "mascot": "Eagles",
-  "c1": "#2e0010",
-  "c2": "#85002f",
+  "c1": "#200e12",
+  "c2": "#5b2933",
   "ink": "#EFE3E7",
   "img": "assets/mascots/brandon.png",
   "maxpreps": "brandon-eagles",
-  "art": true
+  "art": true,
+  "city": "brandon",
+  "county": "hillsborough",
+  "primary": "#572932",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Maroon and white; black is an accent.",
+  "verified": "2026-08-02"
  },
  "sumner": {
   "name": "Sumner",
   "mascot": "Stingrays",
-  "c1": "#0d0d21",
-  "c2": "#252660",
-  "ink": "#00C264",
+  "c1": "#00192e",
+  "c2": "#004985",
+  "ink": "#00A651",
   "img": "assets/mascots/sumner.png",
   "maxpreps": "sumner-stingrays",
-  "art": true
+  "art": true,
+  "city": "riverview",
+  "county": "hillsborough",
+  "primary": "#0072CE",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Victory blue and kelly green, silver accent. No published hex for victory blue.",
+  "verified": "2026-08-02",
+  "legal_name": "Jule F. Sumner High School"
  },
  "plant": {
   "name": "Plant",
@@ -97,7 +163,13 @@
   "ink": "#FFC72C",
   "img": "assets/mascots/plant.png",
   "maxpreps": "plant-panthers",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "legal_name": "Henry B. Plant High School",
+  "verified": "2026-08-02",
+  "confidence": "medium",
+  "source_tier": 4
  },
  "berkeley-prep": {
   "name": "Berkeley Prep",
@@ -107,7 +179,13 @@
   "ink": "#6CACE4",
   "img": "assets/mascots/berkeley-prep.png",
   "maxpreps": "berkeley-prep-buccaneers",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "legal_name": "Berkeley Preparatory School",
+  "verified": "2026-08-02",
+  "confidence": "medium",
+  "source_tier": 4
  },
  "hillsborough": {
   "name": "Hillsborough",
@@ -117,7 +195,12 @@
   "ink": "#E8ECF2",
   "img": "assets/mascots/hillsborough.png",
   "maxpreps": "hillsborough-terriers",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "verified": "2026-08-02",
+  "confidence": "medium",
+  "source_tier": 4
  },
  "sarasota": {
   "name": "Sarasota",
@@ -127,7 +210,9 @@
   "ink": "#FF9147",
   "img": "assets/mascots/sarasota.png",
   "maxpreps": "sarasota-sailors",
-  "art": true
+  "art": true,
+  "city": "sarasota",
+  "county": "other"
  },
  "tampa-bay-tech": {
   "name": "Tampa Bay Tech",
@@ -137,27 +222,49 @@
   "ink": "#E63946",
   "img": "assets/mascots/tampa-bay-tech.png",
   "maxpreps": "tampa-bay-tech-titans",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "legal_name": "Tampa Bay Technical High School",
+  "verified": "2026-08-02",
+  "confidence": "medium",
+  "source_tier": 4
  },
  "carrollwood-day": {
   "name": "Carrollwood Day",
   "mascot": "Patriots",
-  "c1": "#2b0307",
-  "c2": "#7d0714",
+  "c1": "#2b0209",
+  "c2": "#7e071a",
   "ink": "#E8ECF2",
   "img": "assets/mascots/carrollwood-day.png",
   "maxpreps": "carrollwood-day-patriots",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "primary": "#C8102E",
+  "confidence": "medium",
+  "source_tier": 5,
+  "note": "Red and white primary; gray and black are also official accents.",
+  "verified": "2026-08-02",
+  "art_stale": true,
+  "art_note": "Art is the real New England Patriots logo. Trademark exposure. Highest priority."
  },
  "armwood": {
   "name": "Armwood",
   "mascot": "Hawks",
-  "c1": "#050e29",
-  "c2": "#0d2977",
+  "c1": "#000f2e",
+  "c2": "#002a85",
   "ink": "#C6CDD6",
   "img": "assets/mascots/armwood.png",
   "maxpreps": "armwood-hawks",
-  "art": true
+  "art": true,
+  "city": "seffner",
+  "county": "hillsborough",
+  "primary": "#0033A0",
+  "confidence": "UNRESOLVED",
+  "source_tier": 5,
+  "note": "Blue is certain. Secondary disputed between gray, black and white; the school's own 2014 page that would settle it is dead and archive.org was unreachable.",
+  "verified": "2026-08-02"
  },
  "edgewater": {
   "name": "Edgewater",
@@ -169,7 +276,8 @@
   "maxpreps": "edgewater-eagles",
   "art": true,
   "city": "orlando",
-  "note": "Orlando, Orange County. Not a Tampa Bay school but plays one game on the schedule."
+  "note": "Orlando, Orange County. Not a Tampa Bay school but plays one game on the schedule.",
+  "county": "other"
  },
  "seminole": {
   "name": "Seminole",
@@ -179,17 +287,27 @@
   "ink": "#F98A2E",
   "img": "assets/mascots/seminole.png",
   "maxpreps": "seminole-warhawks",
-  "art": true
+  "art": true,
+  "city": "seminole",
+  "county": "other"
  },
  "jefferson": {
   "name": "Jefferson",
   "mascot": "Dragons",
-  "c1": "#050e29",
-  "c2": "#0d2977",
+  "c1": "#071527",
+  "c2": "#143c71",
   "ink": "#FFC72C",
   "img": "assets/mascots/jefferson.png",
   "maxpreps": "jefferson-dragons",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "primary": "#1D4F91",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Royal and gold.",
+  "verified": "2026-08-02",
+  "legal_name": "Thomas Jefferson High School"
  },
  "dunedin": {
   "name": "Dunedin",
@@ -199,17 +317,29 @@
   "ink": "#E8ECF2",
   "img": "assets/mascots/dunedin.png",
   "maxpreps": "dunedin-falcons",
-  "art": true
+  "art": true,
+  "city": "dunedin",
+  "county": "other"
  },
  "lennard": {
   "name": "Lennard",
   "mascot": "Longhorns",
-  "c1": "#2e1500",
-  "c2": "#853c00",
-  "ink": "#FF9E4A",
+  "c1": "#170b23",
+  "c2": "#432065",
+  "ink": "#FFB81C",
   "img": "assets/mascots/lennard.png",
   "maxpreps": "lennard-longhorns",
-  "art": true
+  "art": true,
+  "city": "ruskin",
+  "county": "hillsborough",
+  "primary": "#582C83",
+  "confidence": "high",
+  "source_tier": 4,
+  "note": "Dropped orange in 2020 after the UT logo order; now purple and gold. Verified by Big County Preps game coverage plus two vendors.",
+  "verified": "2026-08-02",
+  "legal_name": "Earl J. Lennard High School",
+  "art_stale": true,
+  "art_note": "Art is an orange longhorn; verified colors are now purple and gold. Clashes badly."
  },
  "osceola": {
   "name": "Osceola",
@@ -219,7 +349,9 @@
   "ink": "#F98A2E",
   "img": "assets/mascots/osceola.png",
   "maxpreps": "osceola-warriors",
-  "art": true
+  "art": true,
+  "city": "seminole",
+  "county": "other"
  },
  "middleton": {
   "name": "Middleton",
@@ -229,7 +361,13 @@
   "ink": "#FFC72C",
   "img": "assets/mascots/middleton.png",
   "maxpreps": "middleton-tigers",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "legal_name": "George S. Middleton Magnet High School",
+  "verified": "2026-08-02",
+  "confidence": "medium",
+  "source_tier": 4
  },
  "gibbs": {
   "name": "Gibbs",
@@ -239,7 +377,9 @@
   "ink": "#FFC72C",
   "img": "assets/mascots/gibbs.png",
   "maxpreps": "gibbs-gladiators",
-  "art": true
+  "art": true,
+  "city": "st-petersburg",
+  "county": "other"
  },
  "newsome": {
   "name": "Newsome",
@@ -249,7 +389,12 @@
   "ink": "#7BAFD4",
   "img": "assets/mascots/newsome.png",
   "maxpreps": "newsome-wolves",
-  "art": true
+  "art": true,
+  "city": "lithia",
+  "county": "hillsborough",
+  "verified": "2026-08-02",
+  "confidence": "medium",
+  "source_tier": 4
  },
  "northeast": {
   "name": "Northeast",
@@ -259,17 +404,26 @@
   "ink": "#F5E6C8",
   "img": "assets/mascots/northeast.png",
   "maxpreps": "northeast-vikings",
-  "art": true
+  "art": true,
+  "city": "st-petersburg",
+  "county": "other"
  },
  "plant-city": {
   "name": "Plant City",
   "mascot": "Raiders",
-  "c1": "#002e2e",
-  "c2": "#008585",
-  "ink": "#FF8A3D",
+  "c1": "#072027",
+  "c2": "#155d70",
+  "ink": "#FF8200",
   "img": "assets/mascots/plant-city.png",
   "maxpreps": "plant-city-raiders",
-  "art": true
+  "art": true,
+  "city": "plant-city",
+  "county": "hillsborough",
+  "primary": "#2AA7C7",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Teal and orange, hex from two vendors.",
+  "verified": "2026-08-02"
  },
  "nature-coast-tech": {
   "name": "Nature Coast Tech",
@@ -279,17 +433,26 @@
   "ink": "#6CACE4",
   "img": "assets/mascots/nature-coast-tech.png",
   "maxpreps": "nature-coast-tech-sharks",
-  "art": true
+  "art": true,
+  "city": "brooksville",
+  "county": "other"
  },
  "alonso": {
   "name": "Alonso",
   "mascot": "Ravens",
   "c1": "#061527",
   "c2": "#133d72",
-  "ink": "#D3C577",
+  "ink": "#FFC72C",
   "img": "assets/mascots/alonso.png",
   "maxpreps": "alonso-ravens",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "primary": "#0C2340",
+  "confidence": "medium",
+  "source_tier": 4,
+  "note": "Booster club says navy, white and a touch of gold. 'Vegas gold' was unsupported.",
+  "verified": "2026-08-02"
  },
  "zephyrhills-christian": {
   "name": "Zephyrhills Christian",
@@ -299,37 +462,61 @@
   "ink": "#FFC72C",
   "img": "assets/mascots/zephyrhills-christian.png",
   "maxpreps": "zephyrhills-christian-academy-warriors",
-  "art": true
+  "art": true,
+  "city": "zephyrhills",
+  "county": "other"
  },
  "jesuit": {
   "name": "Jesuit",
   "mascot": "Tigers",
   "c1": "#000f2e",
   "c2": "#002a85",
-  "ink": "#8FBCEC",
+  "ink": "#E8ECF2",
   "img": "assets/mascots/jesuit.png",
   "maxpreps": "jesuit-tigers",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "primary": "#0033A0",
+  "confidence": "medium",
+  "source_tier": 3,
+  "note": "Royal blue and white. The earlier light-blue value had no support.",
+  "verified": "2026-08-02"
  },
  "s-f-a": {
   "name": "S F A",
   "mascot": "Rams",
-  "c1": "#28060a",
-  "c2": "#74101c",
+  "c1": "#290509",
+  "c2": "#770e1a",
   "ink": "#D9A441",
   "img": "assets/mascots/s-f-a.png",
   "maxpreps": "specially-fit-academy-rams",
-  "art": true
+  "art": true,
+  "city": "dover",
+  "county": "hillsborough",
+  "primary": "#74101c",
+  "confidence": "UNKNOWN",
+  "source_tier": 0,
+  "note": "Colors not published anywhere. Now branded SFA Academy at strongfaithathletics.com. Placeholder palette.",
+  "verified": "2026-08-02",
+  "legal_name": "SFA Academy"
  },
  "cambridge-christian": {
   "name": "Cambridge Christian",
   "mascot": "Lancers",
-  "c1": "#061527",
-  "c2": "#133d72",
-  "ink": "#FFC72C",
+  "c1": "#00102e",
+  "c2": "#002d85",
+  "ink": "#C8A93B",
   "img": "assets/mascots/cambridge-christian.png",
   "maxpreps": "cambridge-christian-lancers",
-  "art": true
+  "art": true,
+  "city": "tampa",
+  "county": "hillsborough",
+  "primary": "#001F5B",
+  "confidence": "high",
+  "source_tier": 1,
+  "note": "'The Blue and the Gold' from the school's own site. Exact shade unpublished.",
+  "verified": "2026-08-02"
  },
  "keswick-christian": {
   "name": "Keswick Christian",
@@ -339,7 +526,9 @@
   "ink": "#6FCF97",
   "img": "assets/mascots/keswick-christian.png",
   "maxpreps": "keswick-christian-crusaders",
-  "art": true
+  "art": true,
+  "city": "st-petersburg",
+  "county": "other"
  },
  "bloomingdale": {
   "name": "Bloomingdale",
@@ -352,7 +541,10 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "hillsborough",
+  "verified": "2026-08-02",
+  "source_tier": 4
  },
  "leto": {
   "name": "Leto",
@@ -365,7 +557,11 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "hillsborough",
+  "legal_name": "A. P. Leto High School",
+  "verified": "2026-08-02",
+  "source_tier": 4
  },
  "east-bay": {
   "name": "East Bay",
@@ -378,11 +574,15 @@
   "ink": "#C8CDD1",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "hillsborough",
+  "source_tier": 5,
+  "note": "Gray confirmed over black; the band site theme carries no black.",
+  "verified": "2026-08-02"
  },
  "blake": {
   "name": "Blake",
-  "mascot": "Yellow Jackets",
+  "mascot": "Yellowjackets",
   "city": "tampa",
   "maxpreps": "blake-yellow-jackets",
   "primary": "#1A1A1A",
@@ -391,20 +591,28 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "hillsborough",
+  "legal_name": "Howard W. Blake High School",
+  "verified": "2026-08-02",
+  "source_tier": 4
  },
  "steinbrenner": {
   "name": "Steinbrenner",
   "mascot": "Warriors",
   "city": "lutz",
   "maxpreps": "steinbrenner-warriors",
-  "primary": "#0C2340",
-  "c1": "#061527",
-  "c2": "#133d72",
+  "primary": "#00204E",
+  "c1": "#00132e",
+  "c2": "#003685",
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "medium",
+  "county": "hillsborough",
+  "source_tier": 3,
+  "note": "Navy sampled from the official football site.",
+  "verified": "2026-08-02"
  },
  "robinson": {
   "name": "Robinson",
@@ -417,7 +625,11 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "hillsborough",
+  "legal_name": "Thomas R. Robinson High School",
+  "verified": "2026-08-02",
+  "source_tier": 4
  },
  "st-pete-catholic": {
   "name": "St. Petersburg Catholic",
@@ -430,7 +642,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "morgan": {
   "name": "Morgan",
@@ -440,36 +653,49 @@
   "primary": "#0C2340",
   "c1": "#061527",
   "c2": "#133d72",
-  "ink": "#F98A2E",
+  "ink": "#F26B2A",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "medium",
+  "county": "hillsborough",
+  "source_tier": 4,
+  "note": "Navy and 'determined orange', the school's own term. No published hex.",
+  "verified": "2026-08-02",
+  "legal_name": "Aquilla J. Morgan High School"
  },
  "chamberlain": {
   "name": "Chamberlain",
   "mascot": "Storm",
   "city": "tampa",
   "maxpreps": "chamberlain-storm",
-  "primary": "#00693E",
-  "c1": "#002e1b",
-  "c2": "#00854e",
-  "ink": "#FFC72C",
+  "primary": "#154734",
+  "c1": "#0a241a",
+  "c2": "#1c684b",
+  "ink": "#B3A369",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "medium",
+  "county": "hillsborough",
+  "source_tier": 5,
+  "note": "Forest green and old gold per two vendors.",
+  "verified": "2026-08-02"
  },
  "freedom": {
   "name": "Freedom",
   "mascot": "Patriots",
   "city": "tampa",
   "maxpreps": "freedom-patriots",
-  "primary": "#C8102E",
-  "c1": "#2b0209",
-  "c2": "#7e071a",
+  "primary": "#BA0C2F",
+  "c1": "#2c020a",
+  "c2": "#7f051e",
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "low",
+  "county": "hillsborough",
+  "source_tier": 5,
+  "note": "Red, white and blue. No source above tier 5 states it.",
+  "verified": "2026-08-02"
  },
  "parrish-community": {
   "name": "Parrish Community",
@@ -482,7 +708,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "largo": {
   "name": "Largo",
@@ -495,20 +722,25 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "tampa-catholic": {
   "name": "Tampa Catholic",
   "mascot": "Crusaders",
   "city": "tampa",
   "maxpreps": "tampa-catholic-crusaders",
-  "primary": "#00693E",
-  "c1": "#002e1b",
-  "c2": "#00854e",
+  "primary": "#00843D",
+  "c1": "#002e15",
+  "c2": "#00853d",
   "ink": "#E6F0EA",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "hillsborough",
+  "source_tier": 1,
+  "note": "Green and white since 1965-66, from the school's own history page.",
+  "verified": "2026-08-02"
  },
  "pinellas-park": {
   "name": "Pinellas Park",
@@ -521,7 +753,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "st-petersburg": {
   "name": "St. Petersburg",
@@ -534,7 +767,8 @@
   "ink": "#E6F0EA",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "sickles": {
   "name": "Sickles",
@@ -547,7 +781,10 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "hillsborough",
+  "verified": "2026-08-02",
+  "source_tier": 4
  },
  "palm-harbor": {
   "name": "Palm Harbor University",
@@ -560,7 +797,8 @@
   "ink": "#7BAFD4",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "land-o-lakes": {
   "name": "Land O' Lakes",
@@ -573,7 +811,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "wiregrass-ranch": {
   "name": "Wiregrass Ranch",
@@ -586,7 +825,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "manatee": {
   "name": "Manatee",
@@ -599,7 +839,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "boca-ciega": {
   "name": "Boca Ciega",
@@ -612,7 +853,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "hollins": {
   "name": "Hollins",
@@ -625,7 +867,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "anclote": {
   "name": "Anclote",
@@ -638,7 +881,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "tarpon-springs": {
   "name": "Tarpon Springs",
@@ -651,7 +895,8 @@
   "ink": "#EFE3E7",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "countryside": {
   "name": "Countryside",
@@ -664,7 +909,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "clearwater": {
   "name": "Clearwater",
@@ -677,7 +923,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "lake-gibson": {
   "name": "Lake Gibson",
@@ -690,7 +937,8 @@
   "ink": "#CEB888",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "east-lake": {
   "name": "East Lake",
@@ -703,7 +951,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "calvary-christian": {
   "name": "Calvary Christian",
@@ -716,7 +965,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "mulberry": {
   "name": "Mulberry",
@@ -729,7 +979,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "kathleen": {
   "name": "Kathleen",
@@ -742,7 +993,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "wesley-chapel": {
   "name": "Wesley Chapel",
@@ -755,7 +1007,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "low"
+  "confidence": "low",
+  "county": "other"
  },
  "lake-wales": {
   "name": "Lake Wales",
@@ -768,7 +1021,8 @@
   "ink": "#F98A2E",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "lakewood": {
   "name": "Lakewood",
@@ -781,7 +1035,8 @@
   "ink": "#FFB81C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "southeast": {
   "name": "Southeast",
@@ -794,7 +1049,8 @@
   "ink": "#F98A2E",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "northside-christian": {
   "name": "Northside Christian",
@@ -807,7 +1063,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "low"
+  "confidence": "low",
+  "county": "other"
  },
  "crystal-river": {
   "name": "Crystal River",
@@ -820,7 +1077,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "swfl-christian": {
   "name": "Southwest Florida Christian",
@@ -833,7 +1091,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "UNKNOWN"
+  "confidence": "UNKNOWN",
+  "county": "other"
  },
  "sarasota-christian": {
   "name": "Sarasota Christian",
@@ -846,7 +1105,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "bishop-mclaughlin": {
   "name": "Bishop McLaughlin",
@@ -859,7 +1119,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "low"
+  "confidence": "low",
+  "county": "other"
  },
  "mitchell": {
   "name": "Mitchell",
@@ -872,7 +1133,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "sunlake": {
   "name": "Sunlake",
@@ -885,7 +1147,8 @@
   "ink": "#9FD0DE",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "cypress-creek": {
   "name": "Cypress Creek",
@@ -898,7 +1161,8 @@
   "ink": "#FFB81C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "lake-region": {
   "name": "Lake Region",
@@ -911,7 +1175,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "jones": {
   "name": "Jones",
@@ -924,7 +1189,8 @@
   "ink": "#FF8A3D",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "palmetto": {
   "name": "Palmetto",
@@ -937,7 +1203,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "fletcher": {
   "name": "Fletcher",
@@ -950,7 +1217,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "cardinal-mooney": {
   "name": "Cardinal Mooney",
@@ -963,7 +1231,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "archbishop-carroll": {
   "name": "Archbishop Carroll",
@@ -976,7 +1245,8 @@
   "ink": "#7BAFD4",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "ccc": {
   "name": "Clearwater Central Catholic",
@@ -989,7 +1259,8 @@
   "ink": "#FFB81C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "bayshore": {
   "name": "Bayshore",
@@ -1002,7 +1273,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "palm-beach-lakes": {
   "name": "Palm Beach Lakes",
@@ -1015,7 +1287,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "hudson": {
   "name": "Hudson",
@@ -1028,7 +1301,8 @@
   "ink": "#C5B358",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "north-port": {
   "name": "North Port",
@@ -1041,7 +1315,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "venice": {
   "name": "Venice",
@@ -1054,7 +1329,8 @@
   "ink": "#E6F0EA",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "lehigh": {
   "name": "Lehigh",
@@ -1067,7 +1343,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "lakewood-ranch": {
   "name": "Lakewood Ranch",
@@ -1080,7 +1357,8 @@
   "ink": "#E6F0EA",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "riverview-sarasota": {
   "name": "Riverview (Sarasota)",
@@ -1093,7 +1371,8 @@
   "ink": "#EFE3E7",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "belen-jesuit": {
   "name": "Belen Jesuit",
@@ -1106,7 +1385,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "eau-gallie": {
   "name": "Eau Gallie",
@@ -1119,7 +1399,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "river-ridge": {
   "name": "River Ridge",
@@ -1132,7 +1413,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "trinity-christian": {
   "name": "Trinity Christian Academy",
@@ -1145,7 +1427,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "csn": {
   "name": "Community School of Naples",
@@ -1158,7 +1441,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "UNKNOWN"
+  "confidence": "UNKNOWN",
+  "county": "other"
  },
  "cardinal-newman": {
   "name": "Cardinal Newman",
@@ -1171,7 +1455,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "george-jenkins": {
   "name": "George Jenkins",
@@ -1184,7 +1469,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "dunbar": {
   "name": "Dunbar",
@@ -1197,7 +1483,8 @@
   "ink": "#FF8A3D",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "bartow": {
   "name": "Bartow",
@@ -1210,7 +1497,8 @@
   "ink": "#FF8200",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "indian-rocks-christian": {
   "name": "Indian Rocks Christian",
@@ -1223,7 +1511,8 @@
   "ink": "#FF5A5A",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "springstead": {
   "name": "Springstead",
@@ -1236,7 +1525,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "weeki-wachee": {
   "name": "Weeki Wachee",
@@ -1249,7 +1539,8 @@
   "ink": "#6FCF97",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "south-sumter": {
   "name": "South Sumter",
@@ -1262,7 +1553,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "citrus": {
   "name": "Citrus",
@@ -1275,7 +1567,8 @@
   "ink": "#C5B358",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "central-brooksville": {
   "name": "Central",
@@ -1288,7 +1581,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "hernando": {
   "name": "Hernando",
@@ -1301,7 +1595,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "villages-charter": {
   "name": "The Villages Charter",
@@ -1314,7 +1609,8 @@
   "ink": "#6FCF97",
   "img": null,
   "art": false,
-  "confidence": "low"
+  "confidence": "low",
+  "county": "other"
  },
  "south-marion": {
   "name": "South Marion",
@@ -1327,7 +1623,8 @@
   "ink": "#F98A2E",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "santa-fe-catholic": {
   "name": "Santa Fe Catholic",
@@ -1340,7 +1637,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "low"
+  "confidence": "low",
+  "county": "other"
  },
  "father-lopez": {
   "name": "Father Lopez",
@@ -1353,7 +1651,8 @@
   "ink": "#E6F0EA",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "bishop-verot": {
   "name": "Bishop Verot",
@@ -1366,7 +1665,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "vanguard": {
   "name": "Vanguard",
@@ -1379,7 +1679,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "buchholz": {
   "name": "Buchholz",
@@ -1392,7 +1693,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "central-fort-pierce": {
   "name": "Fort Pierce Central",
@@ -1405,7 +1707,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "lakeland": {
   "name": "Lakeland",
@@ -1418,7 +1721,8 @@
   "ink": "#FF8A3D",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "mcc": {
   "name": "Melbourne Central Catholic",
@@ -1431,7 +1735,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "west-oaks": {
   "name": "West Oaks Academy",
@@ -1444,7 +1749,8 @@
   "ink": "#C5B358",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "out-of-door": {
   "name": "Out-of-Door Academy",
@@ -1457,7 +1763,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "orangewood-christian": {
   "name": "Orangewood Christian",
@@ -1470,7 +1777,8 @@
   "ink": "#FFC72C",
   "img": null,
   "art": false,
-  "confidence": "low"
+  "confidence": "low",
+  "county": "other"
  },
  "foundation-academy": {
   "name": "Foundation Academy",
@@ -1483,7 +1791,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "low"
+  "confidence": "low",
+  "county": "other"
  },
  "seffner-christian": {
   "name": "Seffner Christian",
@@ -1496,7 +1805,10 @@
   "ink": "#EFE3E7",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "hillsborough",
+  "verified": "2026-08-02",
+  "source_tier": 4
  },
  "wildwood": {
   "name": "Wildwood",
@@ -1509,7 +1821,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  },
  "smarten": {
   "name": "SmartEn Sports Academy",
@@ -1522,7 +1835,8 @@
   "ink": "#C0C6CC",
   "img": null,
   "art": false,
-  "confidence": "UNKNOWN"
+  "confidence": "UNKNOWN",
+  "county": "other"
  },
  "taylor": {
   "name": "Taylor",
@@ -1535,7 +1849,8 @@
   "ink": "#E8ECF2",
   "img": null,
   "art": false,
-  "confidence": "high"
+  "confidence": "high",
+  "county": "other"
  },
  "eagles-view": {
   "name": "Eagle's View",
@@ -1548,6 +1863,7 @@
   "ink": "#6FCF97",
   "img": null,
   "art": false,
-  "confidence": "medium"
+  "confidence": "medium",
+  "county": "other"
  }
 }

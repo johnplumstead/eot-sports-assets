@@ -18,14 +18,18 @@ PRIMARY = {
  "#1A5632":"dark green","#00492B":"dark green","#355E3B":"hunter green","#14532D":"forest green",
  "#1A1A1A":"black","#3F7686":"teal","#008080":"teal","#582C83":"purple","#4B2E83":"purple",
  "#6B21A8":"purple","#F47B20":"orange","#E87722":"orange","#FF6A13":"orange","#BF5700":"burnt orange",
- "#F26522":"orange","#2D2E6F":"deep blue",
+ "#F26522":"orange","#2D2E6F":"deep blue","#572932":"maroon","#1D4F91":"royal blue",
+ "#0072CE":"blue","#00204E":"navy","#00843D":"green","#BA0C2F":"red","#2AA7C7":"teal",
+ "#74101C":"maroon","#A6192E":"crimson",
 }
 ACCENT = {
  "#FFC72C":"gold","#FFB81C":"gold","#C5B358":"vegas gold","#CEB888":"old gold","#D3C577":"vegas gold",
  "#C0C6CC":"silver","#C8CDD1":"silver","#E8ECF2":"white","#E6F0EA":"white","#EFE3E7":"white",
  "#F0DADD":"white","#7BAFD4":"columbia blue","#6CACE4":"columbia blue","#9FD0DE":"pale blue",
  "#F98A2E":"orange","#FF8A3D":"orange","#FF8200":"orange","#FF5A5A":"bright red","#6FCF97":"mint green",
- "#00C264":"kelly green","#8FBCEC":"light blue",
+ "#00C264":"kelly green","#8FBCEC":"light blue","#5B8FE8":"royal blue","#4D8FE0":"royal blue",
+ "#B3A369":"old gold","#C8A93B":"gold","#00A651":"kelly green","#F26B2A":"orange",
+ "#E63946":"red","#C6CDD6":"silver","#C7CBD1":"silver","#D9A441":"gold","#B9B4C4":"gray",
 }
 
 # Mascots where a literal reading gives a bad prompt.
@@ -89,10 +93,13 @@ def subject(mascot):
     return SUBJECT.get(mascot, singular(mascot))
 
 
-rows = [(k, v) for k, v in sc.items() if not v.get('art')]
+# schools whose existing art contradicts their verified colours come FIRST --
+# a clashing mascot is worse than a clean crest
+stale = [(k, v) for k, v in sc.items() if v.get('art_stale')]
+rows = stale + [(k, v) for k, v in sc.items() if not v.get('art')]
 
 out = ["# Mascot art prompt pack", "",
- f"{len(rows)} schools need art, in priority order (most games first).",
+ f"{len(rows)} entries. The first {len(stale)} REPLACE existing art that contradicts verified colors; the rest have no art at all.",
  "The first 26 are the schools that appear 3 or more times in the 2026-27",
  "schedule. They unlock the most games per unit of effort, so stop there if",
  "you only want to do one batch.", "",
@@ -117,11 +124,16 @@ for i, (k, v) in enumerate(rows, 1):
     c = PRIMARY.get(v.get('primary', '').upper(), v.get('primary', ''))
     a = ACCENT.get(v['ink'].upper(), v['ink'])
     conf = v.get('confidence', '')
-    warn = ""
+    notes = []
+    if v.get('art_stale'):
+        notes.append("**REPLACE EXISTING ART.** " + v.get('art_note', ''))
     if conf == 'UNKNOWN':
-        warn = "  \n> **Colors unverified.** Placeholder palette. Confirm before this card goes public."
+        notes.append("**Colors unverified.** Placeholder palette. Confirm before this card goes public.")
+    elif conf == 'UNRESOLVED':
+        notes.append("**Colors disputed and unresolved.** Confirm with the school before publishing.")
     elif conf == 'low':
-        warn = "  \n> Colors are low confidence. Worth a sanity check."
+        notes.append("Colors are low confidence. Worth a sanity check.")
+    warn = "".join("  \n> " + n for n in notes)
     out.append(f"### {i}. {v['name']} {v['mascot']}  `{k}`")
     out.append(f"*{v['city'].replace('-',' ').title()}  |  {c} and {a}*{warn}")
     out.append("")
