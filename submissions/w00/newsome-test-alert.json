@@ -1,0 +1,15 @@
+{
+ "school": "newsome",
+ "week": 0,
+ "sport": "Football",
+ "player": "Test Alert",
+ "number": "7",
+ "grade": "SR",
+ "position": "RUNNING BACK",
+ "stat": "182 rushing yards and 3 TD in a 28-21 win. This is a test of the email alert.",
+ "photo": "submissions/w00/newsome-test-alert.jpg",
+ "submitted_by": "Automated test",
+ "submitter_email": "",
+ "consent": true,
+ "received_at": "2026-08-06T19:53:29.993Z"
+}
